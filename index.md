@@ -2,8 +2,6 @@
 layout: default
 ---
 
-I am a student in the Department of Physics and Astronomy at the [Johns Hopkins University](https://physics-astronomy.jhu.edu).
-
 <h1 id="education">Education</h1>
 
 ### [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
@@ -40,12 +38,11 @@ I am particularly interested in the effect of spaceflight on the vestibular syst
 
 [PDF]({{site.baseurl}}/assets/moderncv.pdf) of my CV (updated May 2020). 
 
-
 <h1 id="contact">Contact Me</h1>
-
-Please don't hesitate to reach out via email to chat about anything from the weather to my research!
 
 vchandra [at] jhu.edu <br>
 (email me for Skype/Zoom details) <br>
+Twitter: [@vedantchan](https://twitter.com/vedantchan) <br>
+LinkedIn: [vedant-chandra](https://www.linkedin.com/in/vedant-chandra/) <br>
 Bloomberg Center for Physics and Astronomy, <br>
 3400 N Charles St, Baltimore, MD 21218, USA.
