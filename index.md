@@ -38,7 +38,7 @@ I am particularly interested in the effect of spaceflight on the vestibular syst
 
 <h1 id="cv">Curriculum Vitae</h1>
 
-[PDF](https://vedantchandra.github.io/assets/moderncv.pdf) of my CV (updated May 2020). 
+[PDF]({{site.baseurl}}/assets/moderncv.pdf) of my CV (updated May 2020). 
 
 
 <h1 id="contact">Contact Me</h1>
