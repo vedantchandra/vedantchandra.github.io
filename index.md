@@ -4,6 +4,14 @@ layout: default
 
 I am a student in the Department of Physics and Astronomy at the [Johns Hopkins University](https://physics-astronomy.jhu.edu).
 
+<h1 id="education">Education</h1>
+
+### [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
+Department of Physics and Astronomy <br>
+2017-Present: B.S. Physics and Applied Mathematics (Minor in Space Sciences) <br>
+Academic Advisors: Professors [Tobias Marriage](https://physics-astronomy.jhu.edu/directory/tobias-marriage/), [Beryl Castello](https://engineering.jhu.edu/ams/faculty/beryl-castello/), and [Charles L. Bennett](https://cosmos.pha.jhu.edu/bennett/).
+
+
 <h1 id="Research">Research Interests</h1>
 
 I'm interested in a wide range of research topics, a by-product of being easily distracted as a young child. I particularly enjoy working with large datasets using the latest data-driven and statistical techniques. 
@@ -28,3 +36,16 @@ The next few decades will likely see a revolution in manned spaceflight, due to 
 
 I am particularly interested in the effect of spaceflight on the vestibular system or inner ear, which governs balance and orientation. I work with Professor [Mark Shelhamer](https://www.hopkinsmedicine.org/profiles/results/directory/profile/0473514/mark-shelhamer) at the Johns Hopkins School of Medicine to investigate this question using controlled human trials of simulated spaceflight. Along with a large team of student collaborators, we are developing a tool to analyze physiological signals ([hsltools](https://github.com/vedantchandra/hsltools)) and are in the process of applying it to data we collected on 50 subjects in 2019. 
 
+<h1 id="cv">Curriculum Vitae</h1>
+
+[PDF](https://vedantchandra.github.io/assets/cv.pdf) of my CV. 
+
+
+<h1 id="contact">Contact Me</h1>
+
+Please don't hesitate to reach out via email to chat about anything from the weather to my research!
+
+vchandra [at] jhu.edu <br>
+(email me for Skype/Zoom details) <br>
+Bloomberg Center for Physics and Astronomy, <br>
+3400 N Charles St, Baltimore, MD 21218, USA.
