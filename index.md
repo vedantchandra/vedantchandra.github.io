@@ -20,6 +20,8 @@ White dwarfs are the evolutionary end-stages of nearly all stars in the Universe
 
 For the past two years I have worked with Professor [Nadia Zakamska](https://zakamska.johnshopkins.edu/) on characterizing white dwarf atmospheres and predicting their temperatures and surface gravities with spectroscopic measurements. The main challenge is that current theoretical white dwarf atmospheric models are proprietary and kept under lock and key. 
 
+![Figure]({{site.baseurl}}/assets/loggcorr.png) 
+
 Along with graduate student [Hsiang-Chih Hwang](http://www.hwang-astro.me/), we developed a Python package ([wdtools](https://github.com/vedantchandra/wdtools)) that uses various computational techniques to reverse-engineer white dwarf atmospheric models and enable astronomers to predict stellar parameters from spectra. We currently have a publication in preparation describing our methods. 
 
 <h3 id="rsp">Resolved Stellar Populations</h3>
