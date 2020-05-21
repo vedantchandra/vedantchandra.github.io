@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Figure]({{site.baseurl}}/assets/office.png) 
+
 <h1 id="education">Education</h1>
 
 ### [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
