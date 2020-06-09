@@ -12,7 +12,7 @@ Department of Physics and Astronomy <br>
 Academic Advisors: Professors [Tobias Marriage](https://physics-astronomy.jhu.edu/directory/tobias-marriage/), [Beryl Castello](https://engineering.jhu.edu/ams/faculty/beryl-castello/), and [Charles L. Bennett](https://cosmos.pha.jhu.edu/bennett/).
 
 
-<h1 id="Research">Research Interests</h1>
+<h1 id="Research">Research</h1>
 
 I'm interested in a wide range of research topics, a by-product of being easily distracted as a young child. I particularly enjoy working with large datasets using the latest data-driven and statistical techniques. 
 
@@ -21,8 +21,11 @@ I'm interested in a wide range of research topics, a by-product of being easily 
 White dwarfs are the evolutionary end-stages of nearly all stars in the Universe, and exhibit fascinating properties due to their density and composition. There are numerous unsolved problems in white dwarf physics, partly because they have been very difficult to observe in large numbers until recently. 
 
 For the past two years I have worked with Professor [Nadia Zakamska](https://zakamska.johnshopkins.edu/) on characterizing white dwarf atmospheres and predicting their temperatures and surface gravities with spectroscopic measurements. The main challenge is that most current theoretical white dwarf atmospheric models are proprietary and kept under lock and key. 
-
-![Figure]({{site.baseurl}}/assets/loggcorr.png) 
+<!---
+| ![Figure]({{site.baseurl}}/assets/loggcorr.png) |
+|:--:| 
+| *Correlation between the width of the H-alpha absorption line  * |
+--->
 
 Along with graduate student [Hsiang-Chih Hwang](http://www.hwang-astro.me/), we developed a Python package ([wdtools](https://github.com/vedantchandra/wdtools)) that uses various computational techniques to reverse-engineer white dwarf atmospheric models and enable astronomers to predict stellar parameters from spectra. We currently have a publication in preparation describing our methods. 
 
