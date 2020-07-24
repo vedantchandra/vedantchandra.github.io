@@ -27,7 +27,7 @@ For the past two years I have worked with Professor [Nadia Zakamska](https://zak
 | *Correlation between the width of the H-alpha absorption line  * |
 --->
 
-Along with graduate student [Hsiang-Chih Hwang](http://www.hwang-astro.me/), we developed a Python package ([wdtools](https://github.com/vedantchandra/wdtools)) that uses various computational techniques to reverse-engineer white dwarf atmospheric models and enable astronomers to predict stellar parameters from spectra. We currently have a publication in preparation describing our methods. 
+Along with graduate student [Hsiang-Chih Hwang](http://www.hwang-astro.me/), we developed a Python package ([wdtools](https://github.com/vedantchandra/wdtools)) that uses various computational techniques to reverse-engineer white dwarf atmospheric models and enable astronomers to predict stellar parameters from spectra. 
 
 <h2 id="rsp">Resolved Stellar Populations</h2>
 
@@ -44,6 +44,10 @@ I am particularly interested in the effect of spaceflight on the vestibular syst
 <h1 id="cv">Curriculum Vitae</h1>
 
 Latest [PDF]({{site.baseurl}}/assets/moderncv.pdf) of my CV. Some additional details are scattered around my [LinkedIn page](https://www.linkedin.com/in/vedant-chandra/). 
+
+<h1 id="pub">Publications</h1>
+
+1. **Chandra, V.**, Hwang, H.-C., Zakamska, N.L., et al. 2020, [arXiv:2007.11598](https://ui.adsabs.harvard.edu/abs/2020arXiv200711598C/abstract)
 
 <h1 id="contact">Contact Me</h1>
 
