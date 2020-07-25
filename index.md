@@ -41,13 +41,13 @@ The next few decades will likely see a revolution in manned spaceflight, due to 
 
 I am particularly interested in the effect of spaceflight on the vestibular system or inner ear, which governs balance and orientation. I work with Professor [Mark Shelhamer](https://www.hopkinsmedicine.org/profiles/results/directory/profile/0473514/mark-shelhamer) at the Johns Hopkins School of Medicine to investigate this question using controlled human trials of simulated spaceflight. Along with a large team of student collaborators, we are developing a tool to analyze physiological signals ([hsltools](https://github.com/vedantchandra/hsltools)) and are in the process of applying it to data we collected on 50 subjects in 2019. 
 
-<h1 id="cv">Curriculum Vitae</h1>
-
-Latest [PDF]({{site.baseurl}}/assets/moderncv.pdf) of my CV. Some additional details are scattered around my [LinkedIn page](https://www.linkedin.com/in/vedant-chandra/). 
-
 <h1 id="pub">Publications</h1>
 
 1. **Chandra, V.**, Hwang, H.-C., Zakamska, N.L., et al. 2020, [arXiv:2007.11598](https://ui.adsabs.harvard.edu/abs/2020arXiv200711598C/abstract)
+
+<h1 id="cv">Curriculum Vitae</h1>
+
+Latest [PDF]({{site.baseurl}}/assets/moderncv.pdf) of my CV. Some additional details are scattered around my [LinkedIn page](https://www.linkedin.com/in/vedant-chandra/). 
 
 <h1 id="contact">Contact Me</h1>
 
