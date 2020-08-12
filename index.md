@@ -46,7 +46,7 @@ I am particularly interested in the effect of spaceflight on the vestibular syst
 2. **Chandra, V.**, Hwang, H.-C., Zakamska, N.L., Cheng, S. 2020, *A Gravitational Redshift Measurement of the White Dwarf Mass-Radius Relation*, [ApJ, in press](https://ui.adsabs.harvard.edu/abs/2020arXiv200714517C/abstract)
 
 
-1. **Chandra, V.**, Hwang, H.-C., Zakamska, N.L., Budavári, T. 2020, *Computational Tools for the Spectroscopic Analysis of White Dwarfs*, [MNRAS, in press](https://ui.adsabs.harvard.edu/abs/2020arXiv200711598C/abstract)
+1. **Chandra, V.**, Hwang, H.-C., Zakamska, N.L., Budavári, T. 2020, *Computational Tools for the Spectroscopic Analysis of White Dwarfs*, [MNRAS, 497, 2688](https://ui.adsabs.harvard.edu/abs/2020arXiv200711598C/abstract)
 
 <h1 id="cv">Curriculum Vitae</h1>
 
