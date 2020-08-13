@@ -20,14 +20,20 @@ I'm interested in a wide range of research topics, a by-product of being easily 
 
 White dwarfs are the evolutionary end-stages of nearly all stars in the Universe, and exhibit fascinating properties due to their density and composition. There are numerous unsolved problems in white dwarf physics, partly because they have been very difficult to observe in large numbers until recently. 
 
-For the past two years I have worked with Professor [Nadia Zakamska](https://zakamska.johnshopkins.edu/) on characterizing white dwarf atmospheres and predicting their temperatures and surface gravities with spectroscopic measurements. The main challenge is that most current theoretical white dwarf atmospheric models are proprietary and kept under lock and key. 
+For the past two years I have worked with [Professor Nadia Zakamska](https://zakamska.johnshopkins.edu/) on characterizing white dwarf atmospheres and predicting their temperatures and surface gravities with spectroscopic measurements. The main challenge is that most current theoretical white dwarf atmospheric models are proprietary and kept under lock and key. 
 <!---
 | ![Figure]({{site.baseurl}}/assets/loggcorr.png) |
 |:--:| 
 | *Correlation between the width of the H-alpha absorption line  * |
 --->
 
-Along with graduate student [Hsiang-Chih Hwang](http://www.hwang-astro.me/), we developed a Python package ([wdtools](https://github.com/vedantchandra/wdtools)) that uses various computational techniques to reverse-engineer white dwarf atmospheric models and enable astronomers to predict stellar parameters from spectra. 
+Along with graduate student [Hsiang-Chih Hwang](http://www.hwang-astro.me/), we developed a Python package ([wdtools](https://github.com/vedantchandra/wdtools)) that uses various computational techniques to reverse-engineer white dwarf atmospheric models and enable astronomers to predict white dwarf stellar parameters from spectra. 
+
+Additionally, we recently wrote a paper with graduate student [Sihao Cheng](https://sihaocheng.github.io/) in which we statistically measured the white dwarf mass-radius relation using data from over three thousand stars:
+
+<img src="{{site.baseurl}}/assets/mass_radius_photo.png" alt="office" width="500"/>
+
+Our work was featured in a [press release by Johns Hopkins](https://hub.jhu.edu/2020/07/30/astrophysicsists-observe-gravitational-redshift-effect/), as well as in [an article in the ScienceNews magazine](https://www.sciencenews.org/article/white-dwarf-stars-shrink-size-gain-mass). 
 
 <h2 id="rsp">Resolved Stellar Populations</h2>
 
