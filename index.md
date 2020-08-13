@@ -2,7 +2,9 @@
 layout: default
 ---
 
+<figure>
 <img src="{{site.baseurl}}/assets/office.png" alt="office" width="500"/>
+<\figure>
 
 <h1 id="education">Education</h1>
 
@@ -29,11 +31,14 @@ For the past two years I have worked with [Professor Nadia Zakamska](https://zak
 
 Along with graduate student [Hsiang-Chih Hwang](http://www.hwang-astro.me/), we developed a Python package ([wdtools](https://github.com/vedantchandra/wdtools)) that uses various computational techniques to reverse-engineer white dwarf atmospheric models and enable astronomers to predict white dwarf stellar parameters from spectra. 
 
-Additionally, we recently wrote a paper with graduate student [Sihao Cheng](https://sihaocheng.github.io/) in which we statistically measured the white dwarf mass-radius relation using data from over three thousand stars:
+Additionally, we recently wrote [a paper](https://vedantchandra.com/#pub) with graduate student [Sihao Cheng](https://sihaocheng.github.io/) in which we statistically measured the white dwarf mass-radius relation using the gravitational redshift effect. We combined observations of over three thousand white dwarfs from the Sloan Digital Sky Survey (SDSS) and the Gaia space observatory to average gravitational redshifts as a function of stellar radius, and consequently derived this empirical relation.
 
-<img src="{{site.baseurl}}/assets/mass_radius_photo.png" alt="office" width="500"/>
+<figure>
+  <img src="{{site.baseurl}}/assets/mass_radius_photo.png" alt="office" width="500"/>
+  <figcaption>The main result from <a href="https://vedantchandra.com/#pub">Chandra et al. (2020)</a>, an observationally-derived white dwarf mass-radius relation across a wide range of stellar masses. <\figcaption>
+<\figure>
 
-Our work was featured in a [press release by Johns Hopkins](https://hub.jhu.edu/2020/07/30/astrophysicsists-observe-gravitational-redshift-effect/), as well as in [an article in the ScienceNews magazine](https://www.sciencenews.org/article/white-dwarf-stars-shrink-size-gain-mass). 
+Our work was featured in a [press release by Johns Hopkins](https://hub.jhu.edu/2020/07/30/astrophysicsists-observe-gravitational-redshift-effect/), as well as [an article in the ScienceNews magazine](https://www.sciencenews.org/article/white-dwarf-stars-shrink-size-gain-mass). 
 
 <h2 id="rsp">Resolved Stellar Populations</h2>
 
