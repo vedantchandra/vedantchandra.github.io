@@ -4,7 +4,7 @@ layout: default
 
 <figure>
 <img src="{{site.baseurl}}/assets/office.png" alt="office" width="500"/>
-<\figure>
+</figure>
 
 <h1 id="education">Education</h1>
 
@@ -35,8 +35,8 @@ Additionally, we recently wrote [a paper](https://vedantchandra.com/#pub) with g
 
 <figure>
   <img src="{{site.baseurl}}/assets/mass_radius_photo.png" alt="office" width="500"/>
-  <figcaption>The main result from <a href="https://vedantchandra.com/#pub">Chandra et al. (2020)</a>, an observationally-derived white dwarf mass-radius relation across a wide range of stellar masses. <\figcaption>
-<\figure>
+  <figcaption>The main result from <a href="https://vedantchandra.com/#pub">Chandra et al. (2020)</a>, an observationally-derived white dwarf mass-radius relation across a wide range of stellar masses. </figcaption>
+</figure>
 
 Our work was featured in a [press release by Johns Hopkins](https://hub.jhu.edu/2020/07/30/astrophysicsists-observe-gravitational-redshift-effect/), as well as [an article in the ScienceNews magazine](https://www.sciencenews.org/article/white-dwarf-stars-shrink-size-gain-mass). 
 
