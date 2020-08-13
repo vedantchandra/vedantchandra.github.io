@@ -35,7 +35,7 @@ Additionally, we recently wrote [a paper](https://vedantchandra.com/#pub) with g
 
 <figure>
   <img src="{{site.baseurl}}/assets/mass_radius_photo.png" alt="office" width="500"/>
-  <figcaption>The main result from <a href="https://vedantchandra.com/#pub">Chandra et al. (2020)</a>, an observationally-derived white dwarf mass-radius relation across a wide range of stellar masses. </figcaption>
+  <figcaption>The main result from <a href="https://vedantchandra.com/#pub">Chandra et al. (2020)</a>, an observationally-derived white dwarf mass-radius relation across a wide range of stellar masses. Our measurements are in excellent agreement with current theoretical models (overlaid in red and blue).</figcaption>
 </figure>
 
 Our work was featured in a [press release by Johns Hopkins](https://hub.jhu.edu/2020/07/30/astrophysicsists-observe-gravitational-redshift-effect/), as well as [an article in the ScienceNews magazine](https://www.sciencenews.org/article/white-dwarf-stars-shrink-size-gain-mass). 
