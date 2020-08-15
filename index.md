@@ -22,20 +22,13 @@ I'm interested in a wide range of research topics, a by-product of being easily 
 
 White dwarfs are the evolutionary end-stages of nearly all stars in the Universe, and exhibit fascinating properties due to their density and composition. There are numerous unsolved problems in white dwarf physics, partly because they have been very difficult to observe in large numbers until recently. 
 
-For the past two years I have worked with [Professor Nadia Zakamska](https://zakamska.johnshopkins.edu/) on characterizing white dwarf atmospheres and predicting their temperatures and surface gravities with spectroscopic measurements. The main challenge is that most current theoretical white dwarf atmospheric models are proprietary and kept under lock and key. 
-<!---
-| ![Figure]({{site.baseurl}}/assets/loggcorr.png) |
-|:--:| 
-| *Correlation between the width of the H-alpha absorption line  * |
---->
+For the past two years I have worked with [Professor Nadia Zakamska](https://zakamska.johnshopkins.edu/) on characterizing white dwarf atmospheres and predicting their temperatures and surface gravities with spectroscopic measurements. The main challenge is that most current theoretical white dwarf atmospheric models are proprietary and kept under lock and key. Along with graduate student [Hsiang-Chih Hwang](http://www.hwang-astro.me/), we developed a Python package ([wdtools](https://github.com/vedantchandra/wdtools)) that uses various computational techniques to reverse-engineer white dwarf atmospheric models and enable astronomers to predict white dwarf stellar parameters from spectra. 
 
-Along with graduate student [Hsiang-Chih Hwang](http://www.hwang-astro.me/), we developed a Python package ([wdtools](https://github.com/vedantchandra/wdtools)) that uses various computational techniques to reverse-engineer white dwarf atmospheric models and enable astronomers to predict white dwarf stellar parameters from spectra. 
-
-Additionally, we recently wrote [a paper](https://vedantchandra.com/#pub) with graduate student [Sihao Cheng](https://sihaocheng.github.io/) in which we statistically measured the white dwarf mass-radius relation using the gravitational redshift effect. We combined observations of over three thousand white dwarfs from the [Sloan Digital Sky Survey (SDSS)](https://www.sdss.org/) and the [Gaia space observatory](https://sci.esa.int/web/gaia) to average gravitational redshifts as a function of stellar radius, and consequently derived this empirical relation.
+Additionally, we recently wrote [a paper](https://ui.adsabs.harvard.edu/abs/2020arXiv200714517C/abstract) with graduate student [Sihao Cheng](https://sihaocheng.github.io/) in which we statistically measured the white dwarf mass-radius relation using the gravitational redshift effect. We combined observations of over three thousand white dwarfs from the [Sloan Digital Sky Survey (SDSS)](https://www.sdss.org/) and the [Gaia space observatory](https://sci.esa.int/web/gaia) to average gravitational redshifts as a function of stellar radius, and consequently derived this empirical relation.
 
 <figure>
   <img src="{{site.baseurl}}/assets/mass_radius_photo.png" alt="office" width="500"/>
-  <figcaption>The main result from <a href="https://vedantchandra.com/#pub">Chandra et al. (2020)</a>, an observationally-derived white dwarf mass-radius relation across a wide range of stellar masses. Our measurements are in excellent agreement with current theoretical models (overlaid in red and blue).</figcaption>
+  <figcaption>The main result from <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200714517C/abstract">Chandra et al. (2020)</a>, an observationally-derived white dwarf mass-radius relation across a wide range of stellar masses. Our measurements are in excellent agreement with current theoretical models (overlaid in red and blue).</figcaption>
 </figure>
 
 Our work was featured in a [press release by Johns Hopkins](https://hub.jhu.edu/2020/07/30/astrophysicsists-observe-gravitational-redshift-effect/), as well as [an article in the ScienceNews magazine](https://www.sciencenews.org/article/white-dwarf-stars-shrink-size-gain-mass). 
@@ -50,7 +43,7 @@ However, there is a need for speedy and accurate techniques to analyse resolved 
 
 The next few decades will likely see a revolution in manned spaceflight, due to new launch platforms like SpaceX and renewed public interest in sending people to other worlds like the Moon and Mars. The effects of such long-duration spaceflight on human physiology are not yet well understood. Various factors like radiation, lack of gravity, and even loneliness are being actively researched these days. 
 
-I am particularly interested in the effect of spaceflight on the vestibular system or inner ear, which governs balance and orientation. I work with Professor [Mark Shelhamer](https://www.hopkinsmedicine.org/profiles/results/directory/profile/0473514/mark-shelhamer) at the Johns Hopkins School of Medicine to investigate this question using controlled human trials of simulated spaceflight. Along with a large team of student collaborators, we are developing a tool to analyze physiological signals ([hsltools](https://github.com/vedantchandra/hsltools)) and are in the process of applying it to data we collected on 50 subjects in 2019. 
+I am particularly interested in the effect of spaceflight on the vestibular system or inner ear, which governs balance and orientation. I work with [Professor Mark Shelhamer](https://www.hopkinsmedicine.org/profiles/results/directory/profile/0473514/mark-shelhamer) at the Johns Hopkins School of Medicine to investigate this question using controlled human trials of simulated spaceflight. Along with a large team of student collaborators, we are developing a tool to analyze physiological signals ([hsltools](https://github.com/vedantchandra/hsltools)) and are in the process of applying it to data we collected on 50 subjects in 2019. 
 
 <h1 id="pub">Publications</h1>
 
@@ -66,7 +59,7 @@ Latest [PDF]({{site.baseurl}}/assets/moderncv.pdf) of my CV. Some additional det
 <h1 id="contact">Contact Me</h1>
 
 vchandra [at] jhu.edu <br>
-(email me for Skype/Zoom details) <br>
+(email me for Zoom details) <br>
 Twitter: [@vedantchandra](https://twitter.com/vedantchandra) <br>
 LinkedIn: [vedant-chandra](https://www.linkedin.com/in/vedant-chandra/) <br>
 Bloomberg Center for Physics and Astronomy, <br>
