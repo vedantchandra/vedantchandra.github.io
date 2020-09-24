@@ -27,7 +27,7 @@ For the past two years I have been a part of [Professor Nadia Zakamska's](https:
 Additionally, we recently wrote a paper ([Chandra et al. 2020b](https://ui.adsabs.harvard.edu/abs/2020arXiv200714517C/abstract)) along with graduate student [Sihao Cheng](https://sihaocheng.github.io/) in which we statistically measured the white dwarf mass-radius relation using the gravitational redshift effect. We combined observations of over three thousand white dwarfs from the [Sloan Digital Sky Survey (SDSS)](https://www.sdss.org/) and the [Gaia space observatory](https://sci.esa.int/web/gaia) to average gravitational redshifts as a function of stellar radius, and consequently derived this empirical relation.
 
 <figure>
-  <img src="{{site.baseurl}}/assets/mass_radius_photo.png" alt="office" width="500"/>
+  <img src="{{site.baseurl}}/assets/mass_radius_photo.png" alt="chandra2020b photometric mass-radius plot" width="750"/>
   <figcaption>The main result from <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200714517C/abstract">Chandra et al. (2020b)</a>, an observationally-derived white dwarf mass-radius relation across a wide range of stellar masses. Our measurements are in excellent agreement with current theoretical models (overlaid in red and blue).</figcaption>
 </figure>
 
