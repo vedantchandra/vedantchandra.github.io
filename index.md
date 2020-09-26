@@ -39,7 +39,7 @@ The vast majority of the galaxies we observe are too faint or distant for us to 
 
 There is a strong need for speedy and accurate techniques to analyse resolved stellar populations to infer parameters that described their formation. I am currently working with [Dr Mario Gennaro](https://www.stsci.edu/stsci-research/research-directory/mario-gennaro) at the Space Telescope Science Institute to develop a computational framework to fit star formation histories and initial mass functions to resolved stellar populations. We are currently building an open-source package ([starwave](https://github.com/vedantchandra/starwave)) to enable the broader astronomical community to perform this kind of analysis.
 
-<h2 id="rsp">The First Stars in the Universe</h2>
+<h2 id="mpms">The First Stars in the Universe</h2>
 
 The very first stars in the Universe were formed only a hundred million years after the Big Bang in an environment completely devoid of metals - indeed, these primordial stars themselves formed the first metals. It is theorized that some low-mass primordial stars could survive in the local Universe to this day. However, to date they have eluded all efforts to observe them. Instead, astronomers have observed extremely metal-poor stars, which are fascinating in their own right due to their peculiar chemical composition, old age, and insights into Galactic star formation. 
 
