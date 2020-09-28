@@ -31,7 +31,7 @@ Additionally, we recently wrote a paper ([Chandra et al. 2020b](https://ui.adsab
   <figcaption>The main result from <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200714517C/abstract">Chandra et al. (2020b)</a>, an observationally-derived white dwarf mass-radius relation across a wide range of stellar masses. Our measurements are in excellent agreement with current theoretical models (overlaid in red and blue).</figcaption>
 </figure>
 
-Our work was featured by the [Johns Hopkins HUB](https://hub.jhu.edu/2020/07/30/astrophysicsists-observe-gravitational-redshift-effect/), as well as [the ScienceNews magazine](https://www.sciencenews.org/article/white-dwarf-stars-shrink-size-gain-mass). 
+Our work was featured by the [Johns Hopkins HUB](https://hub.jhu.edu/2020/07/30/astrophysicsists-observe-gravitational-redshift-effect/), as well as [the ScienceNews magazine](https://www.sciencenews.org/article/white-dwarf-stars-shrink-size-gain-mass). I wrote a [brief article for *astrobites*](https://astrobites.org/2020/09/28/ur-29-measuring-the-white-dwarf-mass-radius-relation-using-thousands-of-stars/) describing our methods and results. 
 
 <h2 id="rsp">Resolved Stellar Populations</h2>
 
