@@ -60,7 +60,7 @@ I am particularly interested in the effect of spaceflight on the vestibular syst
 
 <h1 id="cv">Curriculum Vitae</h1>
 
-Latest [PDF of my CV]({{site.baseurl}}/assets/moderncv.pdf). Some additional details are scattered around my [LinkedIn page](https://www.linkedin.com/in/vedant-chandra/). 
+Latest [PDF of my CV]({{site.baseurl}}/assets/cv.pdf). Some additional details are scattered around my [LinkedIn page](https://www.linkedin.com/in/vedant-chandra/). 
 
 <h1 id="contact">Contact Me</h1>
 
