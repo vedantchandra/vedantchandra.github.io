@@ -54,7 +54,7 @@ I am particularly interested in the effect of spaceflight on the vestibular syst
 <h1 id="pub">Publications</h1>
 
 <ol start=3 reversed="reversed">
-  <li> **Chandra, V.**, Schlaufman K.C. 2020, *Searching for Low-mass Metal-poor Stars Disguised as Cool White Dwarfs*, [submitted to AAS Journals](https://vedantchandra.com/assets/mpms_draft.pdf)</li>
+  <li> <b>Chandra, V.</b>, Schlaufman K.C. 2020, <i>Searching for Low-mass Metal-poor Stars Disguised as Cool White Dwarfs</i>, <a href="https://vedantchandra.com/assets/mpms_draft.pdf">submitted to AAS Journals</a></li>
 
   <li> **Chandra, V.**, Hwang, H.-C., Zakamska, N.L., Cheng, S. 2020, *A Gravitational Redshift Measurement of the White Dwarf Mass-Radius Relation*, [ApJ, 899, 146](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..146C/abstract)</li>
 
