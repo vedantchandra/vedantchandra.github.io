@@ -57,9 +57,7 @@ I am particularly interested in the effect of spaceflight on the vestibular syst
   
   <li> <b>Chandra, V.</b>, Schlaufman K.C. 2020, <i>Searching for Low-mass Population III Stars Disguised as Cool White Dwarfs</i>, <a href="https://vedantchandra.com/assets/mpms_draft.pdf">submitted to AAS Journals</a></li>
   
-  <li> <b>Chandra, V.</b>, Hwang, H.-C., Zakamska, N.L., Cheng, S. 2020, <i>A Gravitational Redshift Measurement of the White Dwarf Mass-Radius Relation</i>, <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...899..146C/abstract">ApJ, 899, 146</a>
-  <figure>
-  <span class="__dimensions_badge_embed__" data-doi="10.3847/1538-4357/aba8a2" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="86759836"></div></figure> </li>
+  <li> <b>Chandra, V.</b>, Hwang, H.-C., Zakamska, N.L., Cheng, S. 2020, <i>A Gravitational Redshift Measurement of the White Dwarf Mass-Radius Relation</i>, <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...899..146C/abstract">ApJ, 899, 146</a></li>
     
   <li> <b>Chandra, V.</b>, Hwang, H.-C., Zakamska, N.L., Budavári, T. 2020, <i>Computational Tools for the Spectroscopic Analysis of White Dwarfs</i>, <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.2688C/abstract">MNRAS, 497, 2688</a></li>
   
