@@ -12,7 +12,7 @@ layout: default
 
 ### [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
 Department of Physics and Astronomy <br>
-2017-Present: B.S. Physics and Applied Mathematics (Minor in Space Sciences) <br>
+**2017-Present:** B.S. Physics and Applied Mathematics (Minor in Space Sciences) <br>
 
 <h2> Employment </h2>
 
