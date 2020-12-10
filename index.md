@@ -10,8 +10,7 @@ layout: default
 
 <h2>Education</h2>
 
-[Department of Physics and Astronomy, Johns Hopkins University](https://physics-astronomy.jhu.edu/)
-
+[Department of Physics and Astronomy, Johns Hopkins University](https://physics-astronomy.jhu.edu/)<br>
 August, 2017-Present: B.S. Physics and Applied Mathematics (Minor in Space Sciences)
 
 <h2> Employment </h2>
