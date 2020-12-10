@@ -16,9 +16,11 @@ Department of Physics and Astronomy <br>
 
 <h2> Employment </h2>
 
-**December, 2018 – Present:** Research Assistant, Department of Physics & Astronomy, Johns Hopkins University
+**June, 2020 – Present:** Research Intern, [Space Telescope Science Institute (STScI)](https://www.stsci.edu/)
 
-**June, 2020 – Present:** Research Intern, Space Telescope Science Institute (STScI)
+**January, 2019 – Present:** Research Assistant, [Human Spaceflight Lab, Johns Hopkins School of Medicine](https://www.jhuhsl.space/)
+
+**December, 2018 – Present:** Research Assistant, [Department of Physics & Astronomy, Johns Hopkins University](https://physics-astronomy.jhu.edu/)
 
 <h1 id="Research">Research</h1>
 
@@ -55,7 +57,7 @@ One significant challenge when hunting for metal-poor or metal-free stars is tha
 
 The next few decades will likely see a revolution in manned spaceflight, due to new launch platforms like SpaceX and renewed public interest in sending people to other worlds like the Moon and Mars. The effects of such long-duration spaceflight on human physiology are not yet well understood. Various factors like radiation, lack of gravity, and even loneliness are being actively researched these days. 
 
-I am particularly interested in the effect of spaceflight on the vestibular system or inner ear, which governs balance and orientation. I work with [Professor Mark Shelhamer](https://www.hopkinsmedicine.org/profiles/results/directory/profile/0473514/mark-shelhamer) at the Johns Hopkins School of Medicine to investigate this question using controlled human trials of simulated spaceflight. Along with a large team of student collaborators, we are developing some simple software to analyze physiological signals ([hsltools](https://github.com/vedantchandra/hsltools)) and are in the process of applying it to data we collected on 50 subjects in a spaceflight analog. 
+I am particularly interested in the effect of spaceflight on the vestibular system or inner ear, which governs balance and orientation. I work at the [Johns Hopkins Human Spaceflight Lab](https://www.jhuhsl.space/) with [Professor Mark Shelhamer](https://www.hopkinsmedicine.org/profiles/results/directory/profile/0473514/mark-shelhamer) to investigate this question using controlled human trials. Along with a large team of student collaborators, we are developing software to analyze physiological signals ([hsltools](https://github.com/vedantchandra/hsltools)) and are in the process of applying it to data we collected on 50 subjects in a spaceflight analog experiment. 
 
 <h1 id="pub">Publications</h1>
 
