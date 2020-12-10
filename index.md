@@ -10,16 +10,15 @@ layout: default
 
 <h2>Education</h2>
 
-[Department of Physics and Astronomy, Johns Hopkins University](https://physics-astronomy.jhu.edu/)<br>
-August, 2017-Present: B.S. Physics and Applied Mathematics (Minor in Space Sciences)
+August, 2017-Present: B.S. Physics and Applied Mathematics (Minor in Space Sciences), [Department of Physics and Astronomy, Johns Hopkins University](https://physics-astronomy.jhu.edu/). 
 
 <h2> Employment </h2>
 
-June, 2020 – Present: Research Intern, [Space Telescope Science Institute (STScI)](https://www.stsci.edu/)
+June, 2020 – Present: Research Intern, [Space Telescope Science Institute (STScI)](https://www.stsci.edu/).
 
-January, 2019 – Present: Research Assistant, [Johns Hopkins Human Spaceflight Lab](https://www.jhuhsl.space/)
+January, 2019 – Present: Research Assistant, [Johns Hopkins Human Spaceflight Lab](https://www.jhuhsl.space/).
 
-December, 2018 – Present: Research Assistant, [Johns Hopkins Department of Physics & Astronomy](https://physics-astronomy.jhu.edu/)
+December, 2018 – Present: Research Assistant, [Johns Hopkins Department of Physics & Astronomy](https://physics-astronomy.jhu.edu/).
 
 <h1 id="Research">Research</h1>
 
