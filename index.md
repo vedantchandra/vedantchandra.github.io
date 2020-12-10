@@ -51,7 +51,7 @@ I am particularly interested in the effect of spaceflight on the vestibular syst
 
 <h1 id="pub">Publications</h1>
 
-<h2>Lead Author</h1>
+<h2>Lead Author</h2>
 
 <ol start=3 reversed="reversed">
   
@@ -63,7 +63,7 @@ I am particularly interested in the effect of spaceflight on the vestibular syst
   
 </ol>
 
-<h2>Co-Author</h1>
+<h2>Co-Author</h2>
 
 <ol start=1 reversed="reversed">
   
