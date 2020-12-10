@@ -17,9 +17,9 @@ August, 2017-Present: B.S. Physics and Applied Mathematics (Minor in Space Scien
 
 June, 2020 – Present: Research Intern, [Space Telescope Science Institute (STScI)](https://www.stsci.edu/)
 
-January, 2019 – Present: Research Assistant, [Human Spaceflight Lab, Johns Hopkins School of Medicine](https://www.jhuhsl.space/)
+January, 2019 – Present: Research Assistant, [Johns Hopkins Human Spaceflight Lab](https://www.jhuhsl.space/)
 
-December, 2018 – Present: Research Assistant, [Department of Physics & Astronomy, Johns Hopkins University](https://physics-astronomy.jhu.edu/)
+December, 2018 – Present: Research Assistant, [Johns Hopkins Department of Physics & Astronomy](https://physics-astronomy.jhu.edu/)
 
 <h1 id="Research">Research</h1>
 
