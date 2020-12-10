@@ -6,11 +6,19 @@ layout: default
 <img src="{{site.baseurl}}/assets/office.png" alt="office" width="500"/>
 </figure>
 
-<h1 id="education">Education</h1>
+<h1 id="about">About Me</h1>
+
+<h2>Education</h2>
 
 ### [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
 Department of Physics and Astronomy <br>
 2017-Present: B.S. Physics and Applied Mathematics (Minor in Space Sciences) <br>
+
+<h2> Employment </h2>
+
+**December, 2018 – Present:** Research Assistant, Department of Physics & Astronomy, Johns Hopkins University
+
+**June, 2020 – Present:** Research Intern, Space Telescope Science Institute (STScI)
 
 <h1 id="Research">Research</h1>
 
@@ -35,7 +43,7 @@ Our work was featured by the [Johns Hopkins HUB](https://hub.jhu.edu/2020/07/30/
 
 The vast majority of the galaxies we observe are too faint or distant for us to characterize their individual stars. However, using world-class space telescopes like the Hubble Space Telescope, we can resolve the stellar populations of nearby galaxies and use their color-magnitude diagrams to study their initial mass distribution, composition, and more. It's an open problem in astrophysics whether all galaxies form in a similar fashion to our own Milky Way. The next generation of telescopes like JWST and RST will probe these galaxies deeper than ever before, perhaps finally answering this problem. 
 
-There is a strong need for speedy and accurate techniques to analyse resolved stellar populations to infer parameters that described their formation. I am currently working with [Dr Mario Gennaro](https://www.stsci.edu/stsci-research/research-directory/mario-gennaro) at the Space Telescope Science Institute to develop a computational framework to fit star formation histories and initial mass functions to resolved stellar populations. We are building an open-source package ([starwave](https://github.com/vedantchandra/starwave)) to enable the broader astronomical community to perform this kind of analysis. 
+There is a strong need for speedy and accurate techniques to analyse resolved stellar populations to infer parameters that described their formation. I am working with [Dr Mario Gennaro](https://www.stsci.edu/stsci-research/research-directory/mario-gennaro) at the Space Telescope Science Institute (STScI) to develop a computational framework to fit star formation histories and initial mass functions to resolved stellar populations. We are building an open-source package ([starwave](https://github.com/vedantchandra/starwave)) to enable the broader astronomical community to perform this kind of analysis. I am currently working as a long-term research intern at STScI, gratefully funded by the Director's office. 
 
 <h2 id="mpms">The First Stars in the Universe</h2>
 
@@ -78,9 +86,8 @@ Latest [PDF of my CV]({{site.baseurl}}/assets/cv.pdf). Some additional details a
 <h1 id="contact">Contact Me</h1>
 
 vchandra [at] jhu.edu <br>
-(email me for Zoom details) <br>
+vchandra [at] stsci.edu <br>
+(email me for Zoom/WebEx details) <br>
 Twitter: [@vedantchandra](https://twitter.com/vedantchandra) <br>
 LinkedIn: [vedant-chandra](https://www.linkedin.com/in/vedant-chandra/) <br>
 ORCID: [0000-0002-0572-8012](http://orcid.org/0000-0002-0572-8012)  <br>
-Bloomberg Center for Physics and Astronomy, <br>
-3400 N Charles St, Baltimore, MD 21218, USA.
