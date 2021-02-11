@@ -39,7 +39,7 @@ There is a strong need for speedy and accurate techniques to analyse resolved st
 
 The very first stars in the Universe were formed only a hundred million years after the Big Bang in an environment completely devoid of metals - indeed, these primordial stars themselves formed the first metals. It is theorized that some low-mass primordial stars could survive in the local Universe to this day. However, to date they have eluded all efforts to observe them. Instead, astronomers have observed extremely metal-poor stars, which are fascinating in their own right due to their peculiar chemical composition, old age, and insights into Galactic star formation. 
 
-One significant challenge when hunting for metal-poor or metal-free stars is that when observed with spectroscopy, they are nearly indistinguishable from cool white dwarfs. I have recently been working with [Professor Kevin Schlaufman](http://www.kevinschlaufman.com/) on developing an automated technique to differentiate metal-poor main-sequence stars from white dwarfs in large spectroscopic datasets. When applied to future large-scale surveys, this method could help find thousands more extremely metal-poor stars, and provide stronger constraints on the existence of surviving primordial stars in the local Universe. Our work is summarized in a publication currently under review at the Astronomical Journal ([Chandra & Schlaufman 2021](https://vedantchandra.com/assets/mpms_draft.pdf)). 
+One significant challenge when hunting for metal-poor or metal-free stars is that when observed with spectroscopy, they are nearly indistinguishable from cool white dwarfs. I have recently been working with [Professor Kevin Schlaufman](http://www.kevinschlaufman.com/) on developing an [automated technique](https://github.com/vedantchandra/mpms) to differentiate metal-poor main-sequence stars from white dwarfs in large spectroscopic datasets. When applied to future large-scale surveys, this method could help find thousands more extremely metal-poor stars, and provide stronger constraints on the existence of surviving primordial stars in the local Universe. Our work is summarized in a publication currently in press at the Astronomical Journal ([Chandra & Schlaufman 2021](https://arxiv.org/abs/2102.05058)). 
 
 <h2 id="hsl">Human Physiology during Long-Duration Spaceflight</h2>
 
@@ -53,7 +53,7 @@ I am particularly interested in the effect of spaceflight on the vestibular syst
 
 <ol start=3 reversed="reversed">
   
-  <li> <b>Chandra, V.</b>, Schlaufman K.C. 2021, <i>Searching for Low-mass Population III Stars Disguised as Cool White Dwarfs</i>, <a href="https://vedantchandra.com/assets/mpms_draft.pdf">AJ, in press</a></li>
+  <li> <b>Chandra, V.</b>, Schlaufman K.C. 2021, <i>Searching for Low-mass Population III Stars Disguised as Cool White Dwarfs</i>, <a href="https://arxiv.org/abs/2102.05058">AJ, in press</a></li>
   
   <li> <b>Chandra, V.</b>, Hwang, H.-C., Zakamska, N.L., Cheng, S. 2020, <i>A Gravitational Redshift Measurement of the White Dwarf Mass-Radius Relation</i>, <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...899..146C/abstract">ApJ, 899, 146</a></li>
     
