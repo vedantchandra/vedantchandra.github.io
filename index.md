@@ -50,6 +50,7 @@ I am particularly interested in the effect of spaceflight on the vestibular syst
 <h1 id="pub">Publications</h1>
 
 [NASA ADS](https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22%5Echandra%2C%20vedant%22%2C%20year%3A2020-&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+
 [Google Scholar](https://scholar.google.com/citations?user=eFbbm5UAAAAJ&hl=en)
 
 <h2>Lead Author</h2>
