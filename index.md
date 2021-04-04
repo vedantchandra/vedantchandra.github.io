@@ -10,7 +10,7 @@ layout: default
 
 I'm a fourth-year undergraduate at the [Johns Hopkins University](https://www.jhu.edu), majoring in Physics and Applied Mathematics with a minor in Space Sciences. I spend the vast majority of my time doing astrophysical research in the Department of Physics & Astronomy, primarily working with [Professor Nadia Zakamska](https://zakamska.johnshopkins.edu/) and graduate student [Hsiang-Chih Hwang](https://www.hwang-astro.me). I'm also a co-investigator at the [Johns Hopkins Human Spaceflight Lab](https://www.jhuhsl.space), where we run human trials to evaluate the effects of long-term spaceflight. From 2020-2021, I'm employed part-time at the [Space Telescope Science Institute](https://www.stsci.edu), where I am developing tools to study star formation in nearby galaxies using space observatories like the Hubble Space Telescope. 
 
-In September 2021, I will move to Harvard University as a graduate student at the [Center for Astrophysics | Harvard & Smithsonian](https://pweb.cfa.harvard.edu/). 
+In September 2021, I will move to Harvard University as a graduate student at the [Center for Astrophysics \| Harvard & Smithsonian](https://pweb.cfa.harvard.edu/). 
 
 <h1 id="Research">Research</h1>
 
