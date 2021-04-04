@@ -10,6 +10,8 @@ layout: default
 
 I'm a fourth-year undergraduate at the [Johns Hopkins University](https://www.jhu.edu), majoring in Physics and Applied Mathematics with a minor in Space Sciences. I spend the vast majority of my time doing astrophysical research in the Department of Physics & Astronomy, primarily working with [Professor Nadia Zakamska](https://zakamska.johnshopkins.edu/) and graduate student [Hsiang-Chih Hwang](https://www.hwang-astro.me). I'm also a co-investigator at the [Johns Hopkins Human Spaceflight Lab](https://www.jhuhsl.space), where we run human trials to evaluate the effects of long-term spaceflight. From 2020-2021, I'm employed part-time at the [Space Telescope Science Institute](https://www.stsci.edu), where I am developing tools to study star formation in nearby galaxies using space observatories like the Hubble Space Telescope. 
 
+In September 2021, I will move to Harvard University as a graduate student at the [Center for Astrophysics | Harvard & Smithsonian](https://pweb.cfa.harvard.edu/). 
+
 <h1 id="Research">Research</h1>
 
 I'm interested in a wide range of research topics, a by-product of being easily distracted as a young child. I particularly enjoy working with large datasets, teasing out answers to astrophysical problems with novel statistical techniques. 
@@ -39,7 +41,7 @@ There is a strong need for speedy and accurate techniques to analyse resolved st
 
 The very first stars in the Universe were formed only a hundred million years after the Big Bang in an environment completely devoid of metals - indeed, these primordial stars themselves formed the first metals. It is theorized that some low-mass primordial stars could survive in the local Universe to this day. However, to date they have eluded all efforts to observe them. Instead, astronomers have observed extremely metal-poor stars, which are fascinating in their own right due to their peculiar chemical composition, old age, and insights into Galactic star formation. 
 
-One significant challenge when hunting for metal-poor or metal-free stars is that when observed with spectroscopy, they are nearly indistinguishable from cool white dwarfs. I have recently been working with [Professor Kevin Schlaufman](http://www.kevinschlaufman.com/) on developing an [automated technique](https://github.com/vedantchandra/mpms) to differentiate metal-poor main-sequence stars from white dwarfs in large spectroscopic datasets. When applied to future large-scale surveys, this method could help find thousands more extremely metal-poor stars, and provide stronger constraints on the existence of surviving primordial stars in the local Universe. Our work is summarized in a publication currently in press at the Astronomical Journal ([Chandra & Schlaufman 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210205058C/abstract)). 
+One significant challenge when hunting for metal-poor or metal-free stars is that when observed with spectroscopy, they are nearly indistinguishable from cool white dwarfs. I have recently been working with [Professor Kevin Schlaufman](http://www.kevinschlaufman.com/) on developing an [automated technique](https://github.com/vedantchandra/mpms) to differentiate metal-poor main-sequence stars from white dwarfs in large spectroscopic datasets. When applied to future large-scale surveys, this method could help find thousands more extremely metal-poor stars, and provide stronger constraints on the existence of surviving primordial stars in the local Universe. Our work is summarized in [Chandra & Schlaufman (2021)](https://ui.adsabs.harvard.edu/abs/2021AJ....161..197C/abstract). 
 
 <h2 id="hsl">Human Physiology during Long-Duration Spaceflight</h2>
 
@@ -55,7 +57,7 @@ List of all publications on [NASA ADS](https://ui.adsabs.harvard.edu/search/q=%2
 
 <ol start=3 reversed="reversed">
   
-  <li> <b>Chandra, V.</b>, Schlaufman K.C. 2021, <i>Searching for Low-mass Population III Stars Disguised as Cool White Dwarfs</i>, <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210205058C/abstract">AJ, 161, 197</a></li>
+  <li> <b>Chandra, V.</b>, Schlaufman K.C. 2021, <i>Searching for Low-mass Population III Stars Disguised as Cool White Dwarfs</i>, <a href="https://ui.adsabs.harvard.edu/abs/2021AJ....161..197C/abstract">AJ, 161, 197</a></li>
   
   <li> <b>Chandra, V.</b>, Hwang, H.-C., Zakamska, N.L., Cheng, S. 2020, <i>A Gravitational Redshift Measurement of the White Dwarf Mass-Radius Relation</i>, <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...899..146C/abstract">ApJ, 899, 146</a></li>
     
@@ -67,7 +69,7 @@ List of all publications on [NASA ADS](https://ui.adsabs.harvard.edu/search/q=%2
 
 <ol start=1 reversed="reversed">
   
-  <li> Petrosky, E., Hwang, H.C., Zakamska, N.L., <b>Chandra, V.</b>, Hill, M. 2021, <i>Variables, periodic variables and contact binaries in WISE</i>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv201204690P/abstract">submitted to MNRAS</a></li>
+  <li> Petrosky, E., Hwang, H.C., Zakamska, N.L., <b>Chandra, V.</b>, Hill, M. 2021, <i>Variables, periodic variables and contact binaries in WISE</i>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv201204690P/abstract">MNRAS, in press</a></li>
   
 </ol>
 
