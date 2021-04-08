@@ -36,7 +36,7 @@ List of all publications on [NASA ADS](https://ui.adsabs.harvard.edu/search/q=%2
 
 <ol start=1 reversed="reversed">
   
-  <li> Petrosky, E., Hwang, H.C., Zakamska, N.L., <b>Chandra, V.</b>, Hill, M. 2021, <i>Variables, periodic variables and contact binaries in WISE</i>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv201204690P/abstract">MNRAS, in press</a></li>
+  <li> Petrosky, E., Hwang, H.C., Zakamska, N.L., <b>Chandra, V.</b>, Hill, M. 2021, <i>Variables, periodic variables and contact binaries in WISE</i>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv201204690P/abstract">MNRAS, 503, 3975</a></li>
   
 </ol>
 
