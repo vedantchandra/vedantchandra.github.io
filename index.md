@@ -8,7 +8,7 @@ layout: default
 
 <h1 id="about">About Me</h1>
 
-I'm a first-year PhD student in Astronomy & Astrophysics at [Harvard University](https://pweb.cfa.harvard.edu/). I currently work with Professor [Charlie Conroy](https://scholar.harvard.edu/cconroy) as a part of the broader [Sloan Digital Sky Survey](https://www.sdss5.org/) collaboration. 
+I'm a first-year PhD student in Astronomy & Astrophysics at [Harvard University](https://pweb.cfa.harvard.edu/). I currently work with Professor [Charlie Conroy](https://scholar.harvard.edu/cconroy) as a part of the broader [Sloan Digital Sky Survey](https://www.sdss5.org/) and [H3 Survey](http://h3survey.rc.fas.harvard.edu/) collaborations. 
 
 I recently graduated from the [Johns Hopkins University](https://www.jhu.edu), where I spent the vast majority of my time doing astrophysical research with Professor [Nadia Zakamska](https://zakamska.johnshopkins.edu/) and graduate student [Hsiang-Chih Hwang](http://www.hwang-astro.me). I was also a co-investigator at the [Johns Hopkins Human Spaceflight Lab](https://www.jhuhsl.space), where we ran human trials to evaluate the effects of long-term spaceflight. From 2020-2021, I was employed part-time at the [Space Telescope Science Institute](https://www.stsci.edu), where I developed tools to study star formation in nearby galaxies using space observatories like the Hubble Space Telescope. 
 
