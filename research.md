@@ -2,7 +2,7 @@
 
 <h2 id="wd">White Dwarf Stars</h2>
 
-White dwarfs are the evolutionary end-stages of nearly all stars in the Universe, and exhibit fascinating properties due to their density and composition. There are numerous unsolved problems in white dwarf physics, partly because they have been very difficult to observe in large numbers until recently. 
+White dwarfs are the evolutionary end-stages of nearly all stars in the Universe, and exhibit fascinating properties due to their density and composition. There are numerous unsolved problems in white dwarf physics, partly because they have been very difficult to observe in large numbers until recently. Nadia Zakamska [gave a talk at the IAS in November 2021](https://youtu.be/e6zMT00KFog) that summarizes our group's progress studying white dwarfs. 
 
 The main challenge  with studying white dwarfs is that most current theoretical white dwarf atmospheric models are proprietary and kept under lock and key. Along with [Nadia Zakamska](https://zakamska.johnshopkins.edu/main_page.htm) and [Hsiang-Chih Hwang](http://www.hwang-astro.me/), I developed a Python package ([wdtools](https://github.com/vedantchandra/wdtools)) that uses various computational techniques to reverse-engineer white dwarf atmospheric models and enable astronomers to predict white dwarf stellar parameters from spectra ([Chandra et al. 2020a](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.2688C/abstract)). 
 
