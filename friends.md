@@ -11,7 +11,7 @@ My goal is to make this list grow both vertically and horizontally!
 
 [Boris Gaensicke (Warwick)](https://warwick.ac.uk/fac/sci/physics/research/astro/people/gaensicke/): white dwarf binaries, debris disks
 
-[Mario Gennaro (STScI)](https://www.stsci.edu/stsci-research/research-directory/mario-gennaro): resolved stellar populations, inference
+[Mario Gennaro (STScI)](https://www.stsci.edu/stsci-research/research-directory/mario-gennaro): resolved stellar populations, initial mass function
 
 [JJ Hermes (BU)](http://jjherm.es/): white dwarfs
 
@@ -20,5 +20,7 @@ My goal is to make this list grow both vertically and horizontally!
 [Rohan Naidu (Harvard CfA)](https://rohannaidu.github.io/): galactic archaeology, dwarf galaxies
 
 [Kevin Schlaufman (JHU)](http://www.kevinschlaufman.com/): population III and metal-poor stars
+
+[Yuan-Sen Ting (ANU)](https://www.mso.anu.edu.au/~yting/): stellar spectroscopy, chemical inference
 
 [Nadia Zakamska (JHU/IAS)](https://zakamska.johnshopkins.edu/): white dwarfs, binaries
