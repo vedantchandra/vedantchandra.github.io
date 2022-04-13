@@ -14,7 +14,7 @@ I recently graduated from the [Johns Hopkins University](https://www.jhu.edu), w
 
 <h1 id="Research">Research</h1>
 
-I'm interested in a wide range of research topics, a by-product of being easily distracted as a young child. I particularly enjoy working with large datasets, teasing out answers to astrophysical problems with novel statistical techniques. You can find an overview of my work on my [research page](https://vedantchandra.com/research). 
+I'm interested in a wide range of research topics, a by-product of being easily distracted as a young child. I particularly enjoy working with large datasets to tease out answers to astrophysical problems. You can find an overview of my work on my [research page](https://vedantchandra.com/research), and more about my close collaborators [here](https://vedantchandra.com/friends). 
 
 <h1 id="pub">Publications</h1>
 
