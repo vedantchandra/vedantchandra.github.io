@@ -3,7 +3,7 @@ I've been privileged to work with a fantastic group of collaborators and mentors
 I've compiled a list of some of my close collaborators below, with a brief note about what we've worked on together. 
 My goal is to make this list grow both vertically and horizontally! 
 
-[Evan Bauer](https://evbauer.github.io/): runaway white dwarfs
+[Evan Bauer (Harvard CfA)](https://evbauer.github.io/): runaway white dwarfs
 
 [Charlie Conroy (Harvard CfA)](https://scholar.harvard.edu/cconroy): stars and galaxies
 
@@ -18,6 +18,8 @@ My goal is to make this list grow both vertically and horizontally!
 [Hsiang-Chih Hwang (IAS)](http://www.hwang-astro.me/): white dwarfs and binaries
 
 [Rohan Naidu (Harvard CfA)](https://rohannaidu.github.io/): galactic archaeology, dwarf galaxies
+
+[Hans-Walter Rix (MPIA)](https://www.mpia.de/rix.html): gaia dr3
 
 [Kevin Schlaufman (JHU)](http://www.kevinschlaufman.com/): population III and metal-poor stars
 
