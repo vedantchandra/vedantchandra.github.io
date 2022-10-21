@@ -19,7 +19,7 @@ My goal is to make this list grow both vertically and horizontally!
 
 [Rohan Naidu (Harvard CfA)](https://rohannaidu.github.io/): galactic archaeology, dwarf galaxies
 
-[Hans-Walter Rix (MPIA)](https://www.mpia.de/rix.html): gaia dr3
+[Hans-Walter Rix (MPIA)](https://www.mpia.de/rix.html): our galaxy
 
 [Kevin Schlaufman (JHU)](http://www.kevinschlaufman.com/): population III and metal-poor stars
 
