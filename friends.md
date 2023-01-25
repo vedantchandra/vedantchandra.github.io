@@ -7,7 +7,7 @@ My goal is to make this list grow both vertically and horizontally!
 
 [Charlie Conroy (Harvard)](https://scholar.harvard.edu/cconroy): stars and galaxies
 
-[Kareem El-Badry (Harvard -> Caltech)](https://kareemelbadry.github.io/research/): white dwarf binaries, dwarf galaxies
+[Kareem El-Badry (Harvard -> Caltech)](https://kareemelbadry.github.io/): white dwarf binaries, dwarf galaxies
 
 [Boris Gaensicke (Warwick)](https://warwick.ac.uk/fac/sci/physics/research/astro/people/gaensicke/): white dwarf binaries, debris disks
 
