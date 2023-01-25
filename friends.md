@@ -13,13 +13,13 @@ My goal is to make this list grow both vertically and horizontally!
 
 [Mario Gennaro (STScI)](https://www.stsci.edu/stsci-research/research-directory/mario-gennaro): resolved stellar populations, initial mass function
 
-[JJ Hermes (BU)](http://jjherm.es/): white dwarfs
-
 [Hsiang-Chih Hwang (IAS)](http://www.hwang-astro.me/): white dwarfs and binaries
 
 [Rohan Naidu (Harvard CfA)](https://rohannaidu.github.io/): galactic archaeology, dwarf galaxies
 
 [Hans-Walter Rix (MPIA)](https://www.mpia.de/rix.html): our galaxy
+
+[Vadim Semenov (Harvard)](https://vadimsemenov.com/): disk formation in IllustrisTNG
 
 [Kevin Schlaufman (JHU)](http://www.kevinschlaufman.com/): population III and metal-poor stars
 
