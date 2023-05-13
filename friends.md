@@ -15,6 +15,8 @@ My goal is to make this list grow both vertically and horizontally!
 
 [Hsiang-Chih Hwang (IAS)](http://www.hwang-astro.me/): white dwarfs and binaries
 
+[Alexander Ji (Chicago)](https://www.alexji.com/): SDSS-V, high-resolution stellar spectroscopy
+
 [Rohan Naidu (Harvard -> MIT)](https://rohannaidu.github.io/): galactic archaeology, dwarf galaxies
 
 [Hans-Walter Rix (MPIA)](https://www.mpia.de/rix.html): our galaxy
