@@ -13,7 +13,7 @@ My goal is to make this list grow both vertically and horizontally!
 
 [Mario Gennaro (STScI)](https://www.stsci.edu/stsci-research/research-directory/mario-gennaro): resolved stellar populations, initial mass function
 
-[Hsiang-Chih Hwang (IAS)](http://www.hwang-astro.me/): white dwarfs and binaries
+[Hsiang-Chih Hwang (JHU -> IAS)](http://www.hwang-astro.me/): white dwarfs and binaries
 
 [Alexander Ji (Chicago)](https://www.alexji.com/): SDSS-V, high-resolution stellar spectroscopy
 
@@ -25,6 +25,10 @@ My goal is to make this list grow both vertically and horizontally!
 
 [Kevin Schlaufman (JHU)](http://www.kevinschlaufman.com/): population III and metal-poor stars
 
-[Yuan-Sen Ting (ANU)](https://www.mso.anu.edu.au/~yting/): stellar spectroscopy, chemical inference
+[Shivani Shah (Florida)](https://sp-shah.github.io/): element abundances from low-resolution BOSS spectra
 
-[Nadia Zakamska (JHU/IAS)](https://zakamska.johnshopkins.edu/): white dwarfs, binaries
+[Yuan-Sen Ting (ANU -> OSU)](https://www.mso.anu.edu.au/~yting/): stellar spectroscopy, chemical inference
+
+[Zach Way (GSU)](https://www.linkedin.com/in/zach-way-203381147/): wide binaries, m-dwarf isochrones
+
+[Nadia Zakamska (JHU)](https://zakamska.johnshopkins.edu/): white dwarfs, binaries
