@@ -5,11 +5,13 @@ My goal is to make this list grow both vertically and horizontally!
 
 [Evan Bauer (Harvard)](https://evbauer.github.io/): runaway white dwarfs
 
-[Charlie Conroy (Harvard)](https://scholar.harvard.edu/cconroy): stars and galaxies
+[Ana Bonaca (Carnegie)](https://obs.carnegiescience.edu/dr-ana-bonaca-0): the milky way, the Via Survey
+
+[Charlie Conroy (Harvard)](https://scholar.harvard.edu/cconroy): stars and galaxies, the Via Survey
 
 [Kareem El-Badry (Harvard -> Caltech)](https://kareemelbadry.github.io/): white dwarf binaries, dwarf galaxies
 
-[Boris Gaensicke (Warwick)](https://warwick.ac.uk/fac/sci/physics/research/astro/people/gaensicke/): white dwarf binaries, debris disks
+[Boris Gänsicke (Warwick)](https://warwick.ac.uk/fac/sci/physics/research/astro/people/gaensicke/): white dwarf binaries, debris disks
 
 [Mario Gennaro (STScI)](https://www.stsci.edu/stsci-research/research-directory/mario-gennaro): resolved stellar populations, initial mass function
 
@@ -30,5 +32,7 @@ My goal is to make this list grow both vertically and horizontally!
 [Yuan-Sen Ting (ANU -> OSU)](https://www.mso.anu.edu.au/~yting/): stellar spectroscopy, chemical inference
 
 [Zach Way (GSU)](https://www.linkedin.com/in/zach-way-203381147/): wide binaries, m-dwarf isochrones
+
+[Risa Wechsler (Stanford)](https://www.risawechsler.com/): the Via Survey, ultrafaint dwarf galaxies
 
 [Nadia Zakamska (JHU)](https://zakamska.johnshopkins.edu/): white dwarfs, binaries
