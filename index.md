@@ -3,7 +3,8 @@ layout: default
 ---
 
 <figure>
-<img src="{{site.baseurl}}/assets/mss_illustration.jpg" alt="office" width="600"/>
+<img src="{{site.baseurl}}/assets/mss_illustration.jpg" alt="office" width="500"/>
+<em>The <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...956..110C/abstract">Magellanic Stellar Stream</a>, by <a href="https://melissaweiss.com/">Melissa Weiss</a></em>
 </figure>
 
 <h1 id="about">About Me</h1>
