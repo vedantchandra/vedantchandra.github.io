@@ -3,7 +3,7 @@ layout: default
 ---
 
 <figure>
-<img src="{{site.baseurl}}/assets/office.png" alt="office" width="500"/>
+<img src="{{site.baseurl}}/assets/mss_illustration.jpg" alt="office" width="600"/>
 </figure>
 
 <h1 id="about">About Me</h1>
