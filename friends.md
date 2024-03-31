@@ -3,6 +3,8 @@ I've been privileged to work with a fantastic group of collaborators and mentors
 I've compiled a list of some of my close collaborators below, with a brief note about what we've worked on together. 
 My goal is to make this list grow both vertically and horizontally! 
 
+[Christian Aganze (Stanford)](https://caganze.github.io/): the DESI survey, ultrafaint stellar streams
+
 [Evan Bauer (Harvard)](https://evbauer.github.io/): runaway white dwarfs
 
 [Ana Bonaca (Carnegie)](https://obs.carnegiescience.edu/dr-ana-bonaca-0): the milky way, the Via Survey
@@ -33,6 +35,8 @@ My goal is to make this list grow both vertically and horizontally!
 
 [Zach Way (GSU)](https://www.linkedin.com/in/zach-way-203381147/): wide binaries, m-dwarf isochrones
 
-[Risa Wechsler (Stanford)](https://www.risawechsler.com/): the Via Survey, ultrafaint dwarf galaxies
+[Abigail White (Harvard)](https://pweb.cfa.harvard.edu/people/abigail-white): design and fabrication of multi-object, fiber-fed spectrographs
+
+[Risa Wechsler (Stanford)](https://www.risawechsler.com/): the Via Survey, the DESI survey, ultrafaint dwarf galaxies and streams
 
 [Nadia Zakamska (JHU)](https://zakamska.johnshopkins.edu/): white dwarfs, binaries

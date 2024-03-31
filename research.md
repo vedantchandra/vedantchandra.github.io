@@ -1,35 +1,50 @@
 <h1 id="Research">Research</h1>
 
-<h2 id="wd">White Dwarf Stars</h2>
+My research is primarily centered around our home Galaxy, the Milky Way. What would a biography of our Galaxy look like? How has our Galaxy grown and evolved over time, and what does that teach us about other galaxies like our own? I seek answers to these questions primarily by designing and analyzing large stellar spectroscopic surveys, and extensively use theoretical and simulation-based predictions to interpret observational findings. 
 
-White dwarfs are the evolutionary end-stages of nearly all stars in the Universe, and exhibit fascinating properties due to their density and composition. There are numerous unsolved problems in white dwarf physics, partly because they have been very difficult to observe in large numbers until recently. Nadia Zakamska [gave a talk at the IAS in November 2021](https://youtu.be/e6zMT00KFog) that summarizes our group's progress studying white dwarfs. 
+On this page I briefly summarize the major themes of my research, along with some representative publications that I've lead or co-lead. Projects on which I served as an advisor/mentor are highlighted with asterisks.
 
-The main challenge  with studying white dwarfs is that most current theoretical white dwarf atmospheric models are proprietary and kept under lock and key. Along with [Nadia Zakamska](https://zakamska.johnshopkins.edu/main_page.htm) and [Hsiang-Chih Hwang](http://www.hwang-astro.me/), I developed a Python package ([wdtools](https://github.com/vedantchandra/wdtools)) that uses various computational techniques to reverse-engineer white dwarf atmospheric models and enable astronomers to predict white dwarf stellar parameters from spectra ([Chandra et al. 2020a](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.2688C/abstract)). 
+<h2 id="oh">The Galactic Outskirts</h2>
 
-Additionally, we recently wrote a paper ([Chandra et al. 2020b](https://ui.adsabs.harvard.edu/abs/2020arXiv200714517C/abstract)) with [Sihao Cheng](https://sihaocheng.github.io/) in which we statistically measured the white dwarf mass-radius relation using the gravitational redshift effect. We combined observations of over three thousand white dwarfs from the [Sloan Digital Sky Survey (SDSS)](https://www.sdss.org/) and the [Gaia space observatory](https://sci.esa.int/web/gaia) to average gravitational redshifts as a function of stellar radius, and consequently derived this empirical relation. Our work was featured by the [Johns Hopkins HUB](https://hub.jhu.edu/2020/07/30/astrophysicsists-observe-gravitational-redshift-effect/), as well as [the ScienceNews magazine](https://www.sciencenews.org/article/white-dwarf-stars-shrink-size-gain-mass). I wrote a [brief article for *astrobites*](https://astrobites.org/2020/09/28/ur-29-measuring-the-white-dwarf-mass-radius-relation-using-thousands-of-stars/) describing our methods and results. 
+The furthest stars in the Milky Way -- to 100 kiloparsecs and beyond -- hold a treasure trove of information about the recent accretion history of our Galaxy, including the outsize perturbations from the in-falling Magellanic Clouds. 
+As a central part of my PhD, I designed and executed a tailor-made spectroscopic survey to obtain detailed measurements of hundreds of these distant stars, building an all-sky dataset to understand the outer galaxy. 
 
-<figure>
-  <img src="{{site.baseurl}}/assets/mass_radius_photo.png" alt="chandra2020b photometric mass-radius plot" width="500"/>
-  <figcaption>The main result from <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200714517C/abstract">Chandra et al. (2020b)</a>, an observationally-derived white dwarf mass-radius relation across a wide range of stellar masses. Our measurements are in excellent agreement with current theoretical models (overlaid in red and blue).</figcaption>
-</figure>
+[A Ghost in Boötes: The Least-Luminous Disrupted Dwarf Galaxy](https://ui.adsabs.harvard.edu/abs/2022ApJ...940..127C/abstract)
 
-I've also been leading a search for double white dwarf (WD+WD) binaries in the fifth-generation [Sloan Digital Sky Survey](https://www.sdss5.org/). Our first discovery was a 99-minute orbital period binary presented in [Chandra et al. 2021b](https://ui.adsabs.harvard.edu/abs/2021arXiv210811968C/abstract). This is a nearby WD+WD binary in which both stars are visible on the spectrum, allowing us to precisely measure their masses. It turns out to be one of the strongest known emittors of gravitational waves in the millihertz regime, and could be used as a verification source by future space-based gravitational wave observatories. 
+[Distant Echoes of the Milky Way's Last Major Merger](https://ui.adsabs.harvard.edu/abs/2023ApJ...951...26C/abstract)
 
-<figure>
-  <img src="{{site.baseurl}}/assets/sdss1337_spectrogram.png" alt="chandra2021b spectrogram" width="500"/>
-  <figcaption>Continuum-normalized H-alpha spectra of SDSS J1337+3952 from Gemini GMOS across three runs, separated by black lines, along with the double-lined binary model. The residual significance is the difference between the data and model divided by the data uncertainty. Contributions from both stars are clearly visible, and follow a sinusoidal pattern as expected for a circular orbit.</figcaption>
-</figure>
+[Discovery of the Magellanic Stellar Stream](https://ui.adsabs.harvard.edu/abs/2023ApJ...956..110C/abstract)
 
-<h2 id="rsp">Resolved Stellar Populations</h2>
 
-The vast majority of the galaxies we observe are too faint or distant for us to characterize their individual stars. However, using world-class space telescopes like the Hubble Space Telescope, we can resolve the stellar populations of nearby galaxies and use their color-magnitude diagrams to study their initial mass distribution, composition, and more. It's an open problem in astrophysics whether all galaxies form in a similar fashion to our own Milky Way. The next generation of telescopes like JWST and RST will probe these galaxies deeper than ever before, perhaps finally answering this problem. 
+<h2 id="oh">The Evolution of the Milky Way</h2>
 
-There is a strong need for speedy and accurate techniques to analyse resolved stellar populations to infer parameters that described their formation. I worked with [Dr Mario Gennaro](https://www.stsci.edu/stsci-research/research-directory/mario-gennaro) at the Space Telescope Science Institute (STScI) to develop a computational framework to fit star formation histories and initial mass functions to resolved stellar populations. We are building an open-source package ([starwave](https://github.com/vedantchandra/starwave)) to enable the broader astronomical community to perform this kind of analysis. I worked as a long-term research intern at STScI, gratefully funded by the Director's office. 
+The Gaia space observatory has revolutionized our understanding of the Miky Way with 3D positions, velocities, and low-resolution spectroscopy of millions of stars. I have extensively worked on extracting scientific information from this rich dataset, and using its unprecedented size and fidelity to trace the formation history of our Galaxy. 
 
-<h2 id="mpms">The First Stars in the Universe</h2>
+[Robust Data-driven Metallicities for 175 Million Stars from Gaia XP Spectra](https://ui.adsabs.harvard.edu/abs/2023ApJS..267....8A/abstract)
 
-The very first stars in the Universe were formed only a hundred million years after the Big Bang in an environment completely devoid of metals - indeed, these primordial stars themselves formed the first metals. It is theorized that some low-mass primordial stars could survive in the local Universe to this day. However, to date they have eluded all efforts to observe them. Instead, astronomers have observed extremely metal-poor stars, which are fascinating in their own right due to their peculiar chemical composition, old age, and insights into Galactic star formation. One significant challenge when hunting for metal-poor or metal-free stars is that when observed with spectroscopy, they are nearly indistinguishable from cool white dwarfs. I have recently been working with [Professor Kevin Schlaufman](http://www.kevinschlaufman.com/) on developing an [automated technique](https://github.com/vedantchandra/mpms) to differentiate metal-poor main-sequence stars from white dwarfs in large spectroscopic datasets. When applied to future large-scale surveys, this method could help find thousands more extremely metal-poor stars, and provide stronger constraints on the existence of surviving primordial stars in the local Universe. Our work is summarized in [Chandra & Schlaufman (2021)](https://ui.adsabs.harvard.edu/abs/2021AJ....161..197C/abstract). 
+[The Poor Old Heart of the Milky Way](https://ui.adsabs.harvard.edu/abs/2022ApJ...941...45R/abstract)
 
-<h2 id="hsl">Human Physiology during Long-Duration Spaceflight</h2>
+[The Three-Phase Evolution of the Milky Way](https://ui.adsabs.harvard.edu/abs/2023arXiv231013050C/abstract)
 
-The next few decades will likely see a revolution in manned spaceflight, due to new launch platforms like SpaceX and renewed public interest in sending people to other worlds like the Moon and Mars. The effects of such long-duration spaceflight on human physiology are not yet well understood. Various factors like radiation, lack of gravity, and even loneliness are being actively researched these days. I am particularly interested in the effect of spaceflight on the vestibular system or inner ear, which governs balance and orientation. I worked at the [Johns Hopkins Human Spaceflight Lab](https://www.jhuhsl.space/) with [Professor Mark Shelhamer](https://www.hopkinsmedicine.org/profiles/results/directory/profile/0473514/mark-shelhamer) to investigate this question using controlled human trials. Along with a large team of student collaborators, we developed software to analyze physiological signals ([hsltools](https://github.com/vedantchandra/hsltools)) and applied it to data we collected on 50 subjects in a spaceflight analog experiment. 
+
+<h2 id="oh">The Via Project</h2>
+
+The [Via Project](https://github.com/via-project/) is an upcoming spectroscopic survey that will place twin high-resolution multi-object spectrographs on 6.5-meter telescopes covering both celestial hemispheres. I have played a central role in the Via project since it was first proposed, co-leading the science development and building software to simulate various aspects of the instrument and survey. I'm also involved in the opto-mechanical design of the ViaSpec instrument. 
+
+<h2 id="oh">White Dwarf Stars</h2>
+
+White dwarfs are compact stellar remnants left behind by all Sun-like stars. They are some of the best laboratories of general relativistic and quantum mechanical effects on macroscopic scales. 
+
+[Computational tools for the spectroscopic analysis of white dwarfs](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.2688C/abstract)
+
+[A Gravitational Redshift Measurement of the White Dwarf Mass-Radius Relation](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..146C/abstract)
+
+[Searching for Low-mass Population III Stars Disguised as White Dwarfs](https://ui.adsabs.harvard.edu/abs/2021AJ....161..197C/abstract)
+
+[A 99 minute Double-lined White Dwarf Binary from SDSS-V](https://ui.adsabs.harvard.edu/abs/2021ApJ...921..160C/abstract)
+
+[The SN Ia runaway LP 398-9: detection of circumstellar material and surface rotation](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.6122C/abstract)
+
+\*[Discovery of a proto-white dwarf with a massive unseen companion](https://ui.adsabs.harvard.edu/abs/2023arXiv231016313A/abstract)
+
+\*[Measuring the Mass–Radius Relation of White Dwarfs Using Wide Binaries](https://ui.adsabs.harvard.edu/abs/2024ApJ...963...17A/abstract)
