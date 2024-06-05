@@ -15,6 +15,8 @@ As a central part of my PhD, I designed and executed a tailor-made spectroscopic
 
 [Discovery of the Magellanic Stellar Stream](https://ui.adsabs.harvard.edu/abs/2023ApJ...956..110C/abstract)
 
+[Measuring the LMC-induced Reflex Motion of the Halo](https://ui.adsabs.harvard.edu/abs/2024arXiv240601676C/abstract)
+
 
 <h2 id="oh">The Evolution of the Milky Way</h2>
 
