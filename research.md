@@ -50,3 +50,5 @@ White dwarfs are compact stellar remnants left behind by all Sun-like stars. The
 \*[Discovery of a proto-white dwarf with a massive unseen companion](https://ui.adsabs.harvard.edu/abs/2023arXiv231016313A/abstract)
 
 \*[Measuring the Mass–Radius Relation of White Dwarfs Using Wide Binaries](https://ui.adsabs.harvard.edu/abs/2024ApJ...963...17A/abstract)
+
+\*[Detection of the Temperature Dependence of the White Dwarf Mass–Radius Relation with Gravitational Redshifts](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..237C/abstract)
