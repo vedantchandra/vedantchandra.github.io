@@ -20,7 +20,7 @@ I'm interested in a wide range of research topics spanning observations, theory,
 + What are the structural and dynamical properties of the Milky Way on the largest scales, towards the distant horizon of the galaxy?
 + What is the physical nature of the 'dark matter' that binds and shapes all galaxies?
 
-In practical terms, I seek answers to these questions by designing, executing, and analyzing stellar spectroscopic surveys. You can find an overview of my work and projects on my [research page](https://vedantchandra.com/research). 
+In practical terms, I primarily seek answers to these questions by designing, executing, and analyzing stellar spectroscopic surveys. You can find an overview of my work and projects on my [research page](https://vedantchandra.com/research). 
 
 <h1 id="pub">Publications</h1>
 
