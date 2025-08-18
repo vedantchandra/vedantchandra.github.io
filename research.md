@@ -15,8 +15,9 @@ As a central part of my PhD, I designed and executed a tailor-made spectroscopic
 
 + [Discovery of the Magellanic Stellar Stream (Chandra+23b)](https://ui.adsabs.harvard.edu/abs/2023ApJ...956..110C/abstract)
 
-+ [Measuring the LMC-induced Reflex Motion of the Halo (Chandra+25)](https://ui.adsabs.harvard.edu/abs/2024arXiv240601676C/abstract)
++ [Measuring the LMC-induced Reflex Motion of the Halo (Chandra+25a)](https://ui.adsabs.harvard.edu/abs/2024arXiv240601676C/abstract)
 
++ [Mapping the Distant and Metal-Poor Milky Way with SDSS-V (Chandra+25b)](https://ui.adsabs.harvard.edu/abs/2025arXiv250800978C/abstract)
 
 <h2 id="oh">The Evolution of the Milky Way</h2>
 
