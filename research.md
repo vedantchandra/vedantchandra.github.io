@@ -1,8 +1,14 @@
 <h1 id="Research">Research</h1>
 
-My research is primarily centered around our home Galaxy, the Milky Way. What would a biography of our Galaxy look like? How has our Galaxy grown and evolved over time, and what does that teach us about other galaxies like our own? I seek answers to these questions primarily by designing and analyzing large stellar spectroscopic surveys, and extensively use theoretical and simulation-based predictions to interpret observational findings. 
+My research is primarily centered around our home galaxy, the **Milky Way**. I study how our galaxy grew and evolved by mapping the furthest outskirts of the Milky Way, the so-called **outer halo**. I am also keenly interested in understanding the physical nature of **dark matter** using astrophysical detectors like **stellar streams** and **dwarf galaxies**. 
+
+I seek answers to these questions primarily by designing, conducting, and analyzing large **spectroscopic surveys from instrumentation to astrophysics**. 
 
 On this page I briefly summarize the major themes of my research, along with some representative publications that I've lead or co-lead. Projects on which I served as an advisor/mentor are highlighted with asterisks.
+
+<h2 id="oh">The Via Project</h2>
+
+The [Via Project](https://github.com/via-project/) is constructing twin high-resolution multi-object spectrographs for two of the largest telescopes in the world - the Magellan Clay in Chile and the MMT in Arizona - providing all-sky coverage. Our primary goal is to illuminate the true nature of dark matter by measuring the precise velocities of thousands of faint stars in stellar streams and dwarf galaxies. As Deputy Project Scientist, I play a leading role across all parts of the Via collaboration from designing the instrument to developing our scientific results. 
 
 <h2 id="oh">The Galactic Outskirts</h2>
 
@@ -29,14 +35,9 @@ The Gaia space observatory has revolutionized our understanding of the Miky Way 
 
 + [The Three-Phase Evolution of the Milky Way (Chandra+24)](https://ui.adsabs.harvard.edu/abs/2023arXiv231013050C/abstract)
 
-
-<h2 id="oh">The Via Project</h2>
-
-The [Via Project](https://github.com/via-project/) is an upcoming spectroscopic survey that will place twin high-resolution multi-object spectrographs on 6.5-meter telescopes covering both celestial hemispheres. I have played a central role in the Via project since it was first proposed, co-leading the science development and building software to simulate various aspects of the instrument and survey. I'm also involved in the opto-mechanical design of the ViaSpec instrument. 
-
 <h2 id="oh">White Dwarf Stars</h2>
 
-White dwarfs are compact stellar remnants left behind by all Sun-like stars. They are some of the best laboratories of general relativistic and quantum mechanical effects on macroscopic scales. 
+White dwarfs (WDs) are compact stellar remnants left behind by all Sun-like stars. They are some of the best laboratories of general relativistic and quantum mechanical effects on macroscopic scales. As an undergraduate at Johns Hopkins, I helped establish a WD research group with [Nadia Zakamska](https://zakamska.johnshopkins.edu/), and have continued to mentor students on a variety of projects related to white dwarf physics and double white dwarf binaries. 
 
 + [Computational tools for the spectroscopic analysis of white dwarfs (Chandra+20a)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.2688C/abstract)
 
