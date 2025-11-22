@@ -18,7 +18,7 @@ I'm interested in a wide range of research topics spanning observations, simulat
 + What are the structural and dynamical properties of the Milky Way on the largest scales, towards the distant horizon of the galaxy?
 + What is the physical nature of the 'dark matter' that binds and shapes all galaxies?
 
-In practical terms, I primarily seek answers to these questions by designing, conducting, and analyzing stellar spectroscopic surveys. You can find an overview of my work and projects on my [research page](https://vedantchandra.com/research). 
+In practical terms, I primarily seek answers to these questions by designing, conducting, and analyzing stellar spectroscopic surveys, from instrumentation to astrophysics. You can find an overview of my work and projects on my [research page](https://vedantchandra.com/research). 
 
 <h1 id="pub">Publications</h1>
 
@@ -26,11 +26,10 @@ A compilation of all my publications is available on [NASA ADS](https://ui.adsab
 
 <h1 id="cv">Curriculum Vitae</h1>
 
-Latest [PDF of my CV]({{site.baseurl}}/assets/cv.pdf). Some additional details are scattered around my [LinkedIn page](https://www.linkedin.com/in/vedant-chandra/). 
+Here is the latest [PDF of my CV]({{site.baseurl}}/assets/cv.pdf). Some additional details are scattered around my [LinkedIn page](https://www.linkedin.com/in/vedant-chandra/). 
 
 <h1 id="contact">Contact Me</h1>
 
 vedant.chandra [at] cfa.harvard.edu <br>
-Twitter: [@vedantchandra](https://twitter.com/vedantchandra) <br>
 LinkedIn: [vedant-chandra](https://www.linkedin.com/in/vedant-chandra/) <br>
 ORCID: <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> [0000-0002-0572-8012](https://orcid.org/0000-0002-0572-8012) <br>
