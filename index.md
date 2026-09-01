@@ -9,7 +9,8 @@ layout: default
 
 <h1 id="about">About Me</h1>
 
-I'm a postdoctoral associate in the astronomy department at [Harvard University](https://pweb.cfa.harvard.edu/). I primarily work with Professor [Charlie Conroy](https://scholar.harvard.edu/cconroy), studying the Milky Way as a part of the broader [Sloan Digital Sky Survey](https://www.sdss5.org/) and [H3 Survey](http://h3survey.rc.fas.harvard.edu/) collaborations. I am a regular summer visitor at the [Max Planck Institute for Astronomy](https://www.mpia.de/en), working with [Hans-Walter Rix](https://www.mpia.de/rix) to understand the structure and evolution of our galaxy. Since 2023, I've spent most of my time as the Deputy Project Scientist for the [Via Project](https://via-project.org/), building the next-generation [Via multi-object spectrographs](https://via-project.org/#/spectrographs/). In the fall of 2026, I will move down-river to the [Massachusetts Institute of Technology](https://www.space.mit.edu/) as a [NASA Hubble Fellow](https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2026/). 
+I am a [NASA Hubble Fellow](https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2026/) at the [Massachusetts Institute of Technology](https://www.space.mit.edu/), and a member of the [MIT School of Science Fellows](https://science.mit.edu/resource/postdoc-orientation/) cohort. 
+I am also affiliated with the Department of Astronomy at [Harvard University](https://pweb.cfa.harvard.edu/), where I received my PhD in 2026. Recently, I've spent much of my time as the Deputy Project Scientist for the [Via Project](https://via-project.org/). 
 
 <h1 id="Research">Research</h1>
 
