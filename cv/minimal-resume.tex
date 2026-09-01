@@ -1,0 +1,776 @@
+\documentclass[11pt]{article}
+\usepackage[english]{babel}
+\usepackage[colorlinks=true,linkcolor=black!10!azure,urlcolor=black!10!azure]{hyperref}
+\usepackage{etaremune}
+\usepackage{amssymb}
+\usepackage{anyfontsize}
+
+\newcommand{\hindex}{26}
+\newcommand{\ntot}{61}
+\newcommand{\nlead}{11}
+\newcommand{\nco}{14}
+
+% Define a flag
+\newif\ifshowcv
+\showcvtrue   % Uncomment to show the section
+% \showcvfalse    % Uncomment to hide the section
+
+\newif\ifshowpubs
+\showpubstrue   % Uncomment to show the section
+% \showpubsfalse    % Uncomment to hide the section
+
+\input{config/minimal-resume-config}
+\input{generated/pubs-counts}   % auto: \ntot \nlead \nco \hindex
+\definecolor{crimson}{rgb}{0.788, 0.0, 0.086}
+
+\newcommand\blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+
+\newfontfamily\semi[
+  Path = fonts/,
+  UprightFont = *-SemiBold
+]{CrimsonText}
+
+\begin{document}
+
+\personal{
+  {\color{black} VEDANT\hspace{\sizefive}CHANDRA}
+  }{
+  \vspace{-0.1cm}
+  NASA Hubble Fellow, Massachusetts Institute of Technology \\ 
+  \href{mailto:vedant.chandra@cfa.harvard.edu}{vedant.chandra@cfa.harvard.edu}\hspace{0.25em} $\mid$ \hspace{0.25em}\href{https://vedantchandra.com}{vedantchandra.com}
+  }{
+   % ORCID: \href{http://orcid.org/0000-0002-0572-8012}{0000-0002-0572-8012} $\mid$ Publications:  \href{https://ui.adsabs.harvard.edu/public-libraries/frBgq47XRVm5Oy_ielR_6w}{ADS Library}
+}
+
+\ifshowcv
+
+\chap{Research Interests}{
+
+\begin{newitemize}
+    \item {\semi The Milky Way:} dark matter, galactic archaeology, spectroscopic surveys, galaxy formation, stellar streams, dwarf galaxies, hydrodynamical simulations, chemical evolution, near-field cosmology;
+    \item {\semi Optical Instrumentation:} multi-object spectroscopy, robotic fiber positioning, metrology, software; 
+    \item {\semi Stellar Evolution:} white dwarfs, binary stars, supernovae; 
+\end{newitemize}
+
+}
+
+\chap{Professional Appointments}{
+
+ \subchap{Postdoctoral Associate, Massachusetts Institute of Technology}{2026 --}{
+  }
+
+ % \subchap{School of Science Fellow, Massachusetts Institute of Technology}{2029--2031}{
+ %  }
+
+ % \subchap{NASA Hubble Fellow, Massachusetts Institute of Technology}{2026--2029}{
+ %  }
+
+ \subchap{Graduate Research Assistant, Center for Astrophysics $\mid$ Harvard \& Smithsonian}{2021--2026}{
+  }
+  
+  \subchap{Visiting Researcher, Max Planck Institute for Astronomy}{2022--2026}{
+  }
+
+  \subchap{Undergraduate Research Intern, Space Telescope Science Institute}{2020--2021}{
+  }
+  
+  \subchap{Undergraduate Research Assistant, Johns Hopkins University \& Hospital}{2018--2021}{
+  }
+
+}
+
+\chap{Education}{
+
+  \subchap{\textbf{Harvard University}}{2021--2026}{
+    \begin{newitemize}
+      \item A.M., Ph.D. Astronomy \& Astrophysics
+      \item ``\textit{Mapping the Uncharted Horizons of the Milky Way''} (\href{https://vedantchandra.com/assets/private/dissertation.pdf}{dissertation}, \href{https://www.youtube.com/live/Gx2DCH3_FAs?si=RAOuo6wnRMW8SO7l&t=405}{colloquium})
+    \end{newitemize}
+  }
+
+  \subchap{\textbf{Johns Hopkins University}}{2017--2021}{
+    \begin{newitemize}
+      \item B.S. Physics \& Applied Mathematics, minor in Space Sciences
+    \end{newitemize}
+  }
+}
+
+
+\chap{Awards \& Honors}{
+
+ \subchap{\href{https://astronomy.fas.harvard.edu/fireman-fellowship-graduate}{Fireman Prize}, Harvard University}{2026}{
+  }
+     \begin{addmargin}[1em]{3em}
+    {\small \textit{for the most outstanding PhD thesis in the field of astrophysics}}
+    \end{addmargin}
+
+  % \subchap{Stanford Science \& Kavli Fellowship}{2025}{
+  % }
+  
+  % \subchap{Clay Fellowship, Center for Astrophysics | Harvard \& Smithsonian}{2025}{
+  % }
+  
+ \subchap{\href{https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2026/}{Hubble Fellowship}, NASA}{2026}{
+  }
+
+    \begin{addmargin}[1em]{3em}
+    {\small \textit{for outstanding postdoctoral scientists to pursue independent research in any area of NASA Astrophysics}}
+\end{addmargin}
+  
+ \subchap{\href{https://science.mit.edu/}{School of Science Postdoctoral Fellowship}, MIT}{2026}{
+  }
+        \begin{addmargin}[1em]{3em}
+    {\small \textit{for scientific excellence, innovation, and cross-disciplinary research}}
+    \end{addmargin}
+  
+  \subchap{\href{https://ccapp.osu.edu/news/2025-price-prize-winners-announced}{CCAPP Price Prize in Cosmology and Astrophysics}}{2025}{
+  }
+    \begin{addmargin}[1em]{3em}
+    {\small \textit{to two PhD students worldwide for research excellence and exceptional promise}}
+    \end{addmargin}
+
+  \subchap{\href{https://astronomy.fas.harvard.edu/peirce-fellowship}{Peirce Fellowship}, Harvard University}{2021}{
+  }
+      \begin{addmargin}[1em]{3em}
+    {\small \textit{to incoming PhD students who possess significant promise as researchers}}
+    \end{addmargin}
+
+  \subchap{\href{https://aas.org/grants-and-prizes/chambliss-astronomy-achievement-student-awards}{Chambliss Astronomy Achievement Award}, American Astronomical Society}{2021}{
+  }
+    \begin{addmargin}[1em]{3em}
+    {\small \textit{to recognize exemplary research by an undergraduate student}}
+    \end{addmargin}
+
+  % \subchap{Sigma Pi Sigma (${\Sigma\,\Pi\,\Sigma}$)}{2020}{
+  % }
+  
+  % \subchap{Summer Student Fellowship, JHU IDIES}{2020}{
+  % }
+  
+  \subchap{\href{https://hour.jhu.edu/}{Dean's and Provost's Undergraduate Research Awards}, JHU}{2019}{
+  }
+    \begin{addmargin}[1em]{3em}
+    {\small \textit{to recognize and support exceptional research by undergraduate students}}
+\end{addmargin}
+  
+  % \subchap{Dean's Undergraduate Research Award, JHU}{2019}{
+  % }
+  
+  % \subchap{Dean's List 7/7 Semesters, JHU}{2017-2021}{
+  % }
+  
+}
+
+\chap{Publication Summary}{
+
+    \ntot{} refereed publications, \nlead{} as lead author, \nco{} as second/supervising author; \textit{h}-index $= \hindex{}$ (\href{https://ui.adsabs.harvard.edu/public-libraries/frBgq47XRVm5Oy_ielR_6w}{ADS Library})
+}
+
+
+
+\chap{Research Mentorship}{
+    \subchap{\href{https://haniyehtajer.github.io/}{Haniyeh Tajer} {\normalfont (Ohio State PhD, stellar streams in SDSS-V)}}{2026--Present}{
+    }\\
+    \subchap{\href{https://www.linkedin.com/in/hongbo-xia-2a80162a8/}{Hongbo Xia} {\normalfont (Northwestern UG, automated observing at the MMT)}}{2026--Present}{
+    }
+
+    \subchap{\href{https://www.linkedin.com/in/astrid-liu-0664b031a}{Astrid Liu} {\normalfont (Harvard UG, modeling stellar streams in variable MW potentials)}}{2026--Present}{
+    }
+
+    \subchap{\href{https://www.cfa.harvard.edu/people/catherine-miller}{Catherine Miller} {\normalfont (Harvard PhD, the Via robotic fiber positioner)}}{2025--Present}{
+    }
+
+    \subchap{\href{https://camchiu.github.io/}{Camille Chiu} {\normalfont (Yale UG $\rightarrow$ Harvard PhD, dynamics of the Milky Way)}}{2025--Present}{
+    }
+
+    \subchap{\href{https://abigailgwhite.weebly.com/}{Abigail White} {\normalfont (Harvard PhD, fiber optics for Via)}}{2024--Present}{
+    }
+    
+    % \subchap{\href{https://rileythai.com/about/}{Riley Thai} {\normalfont (Monash UG,  EMP stars from \textit{Gaia} XP, 1 paper)}}{2024-Present}{
+    % }
+
+
+    \subchap{\href{https://www.linkedin.com/in/gautham-adamane-pallathadka-4b271b1b7/}{Gautham A. Pallathadka} {\normalfont (JHU PhD,  WD-WD binaries in SDSS-V, 3 papers)}}{2022--2025}{
+    }
+
+    \subchap{\href{https://stefanarseneau.github.io/}{Stefan Arseneau} {\normalfont (JHU UG $\rightarrow$ BU PhD,  the WD mass-radius relation, 1 paper)}}{2022--2025}{
+    }
+
+    \subchap{\href{https://www.linkedin.com/in/nicole-crumpler-8b843518a/}{Nicole Crumpler} {\normalfont (JHU PhD,  WDs in SDSS-V, 2 papers)}}{2022--2024}{
+    }
+
+    % \subchap{Manuel Cavieres {\normalfont (PU Chile UG $\rightarrow$ Leiden PhD, the MW outer halo)}}{2024-Present}{
+    
+    % }
+    
+  %   \subchap{Antonella Macoretta {\normalfont (JHU UG,  statistical gravitational redshift of WDs)}}{Summer, 2022}{
+
+  %   }
+
+  % \subchap{John Magardino {\normalfont (JHU UG, rotation in magnetic WDs)}}{Summer, 2020}{
+
+  %   }
+  %   \subchap{Felix Yu {\normalfont (JHU UG, automated classification of WDs)}}{Summer, 2020}{
+
+    % }
+    
+    %   \subchap{Rebecca Mosier {\normalfont (JHU UG, modelling physiological signals in spaceflight)}}{2019-2020}{
+
+    % }
+    
+    %   \subchap{Jessica Nguyen {\normalfont (JHU UG, modelling physiological signals in spaceflight)}}{2019-2020}{
+    % }
+    
+}
+
+\chap{Grant Allocations as PI}{
+
+  % \subchap{NASA Hubble Fellowship (\$250,000)}{2026}{
+  % }
+
+  \subchap{STScI JWST Discretionary Fund (\$42,740, Co-PI with Mario Gennaro)}{2020}{
+    % \begin{newitemize}
+    %   \item ``The Initial Mass Function of Resolved Stellar Populations in the Local Group''
+    %   \item PIs: Mario Gennaro, Vedant Chandra
+    % \end{newitemize}
+  }
+  
+    \subchap{JHU Dean's and Provost's Undergraduate Research Awards (\$13,500)}{2019-2020}{
+    % \begin{newitemize}
+    %   \item PI: Vedant Chandra, Co-Is: Nadia Zakamska, Hsiang-Chih Hwang, Kevin C. Schlaufman
+    % \end{newitemize}
+  }
+}
+
+
+% \vspace{0.2cm}
+% {\fontsize{11.4}{13}\selectfont \underline{\fontspec[Path = fonts/]{CrimsonText-SemiBold} Poster Presentations}}
+% \vspace{0.2cm}
+
+%  \subchap{Milky Way Surveys Conference, Caltech}{October, 2023}{
+% }
+
+%  \subchap{237th Meeting of the American Astronomical Society (\href{https://aas237-aas.ipostersessions.com/Default.aspx?s=D9-C8-D0-17-9B-DC-8A-15-E7-22-D4-5C-C5-8C-61-70}{iPoster})}{January, 2021}{
+% }
+
+%     \subchap{IDIES and MINDS Annual Symposium}{October, 2020}{
+%     }
+
+%   \subchap{NASA HRP Investigators Workshop}{January, 2020}{
+%     }
+    
+%     \subchap{IDIES Annual Symposium}{October, 2019}{}
+    
+%     \subchap{JHU DREAMS Conference}{April, 2019}{
+%   }
+
+% \clearpage
+\chap{Observatory Allocations}{
+
+\vspace{0.1cm}
+{\fontsize{11.4}{13}\selectfont \underline{\fontspec[Path = fonts/]{CrimsonText-SemiBold} Principal Investigator:}}
+\vspace{0.2cm}
+
+\subchap{MPG/ESO 2.2m, FEROS, 250 hours}{2023-2024}{
+    
+        % \begin{newitemize}
+        %   \item ``The Enrichment History of the Ancient Milky Way'', co-PI with Hans-Walter Rix.
+        % \end{newitemize}
+    
+    
+}
+
+\subchap{ESO Very Large Telescope, FLAMES/GIRAFFE, 75 hours}{2023}{
+    
+        % \begin{newitemize}
+        %   \item ``A Chemical Survey of the Milky Way's Ancient Heart''.
+        % \end{newitemize}
+    
+    
+}
+
+\subchap{Magellan Observatory, MagE, 19 nights}{2022-2023}{
+    
+        % \begin{newitemize}
+        %   \item ``Surveying the Uncharted Outer Halo with MagE''
+        %   \item ``Stealth Galaxies in the Southern Outskirts of the Milky Way''
+        % \end{newitemize}
+    
+    
+}
+
+\subchap{MMT Observatory, Hectochelle, 4 nights}{2022-2023}{
+    
+        % \begin{newitemize}
+        %   \item ``Stealth Galaxies in the Outskirts of the Milky Way''.
+        % \end{newitemize}
+    
+    
+}
+
+\subchap{Anglo-Australian Telescope, 2dF+AAOmega, 3 nights}{2022}{
+    
+        % \begin{newitemize}
+        %   \item ``New Structures in the Outskirts of the Milky Way'', co-PI with Yuan-Sen Ting.
+        % \end{newitemize}
+    
+    
+}
+
+\subchap{Gemini Observatory, GMOS, 30 hours}{2021-2022}{
+    
+        % \begin{newitemize}
+        %   \item ``A Long-period Cataclysmic Variable in NGC 2234''
+        %   \item ``A New Double-lined White Dwarf Binary from SDSS-V''
+        %   \item ``A Long-Period AM CVn Binary with an Unusual Composition''
+        %   \item ``Monitoring a Dynamic Gaseous Debris Disk around a White Dwarf''
+        %   \item ``A Short-period Double White Dwarf Binary from SDSS-V''
+        %   \item ``Double White Dwarf Binaries from SDSS-V''
+        % \end{newitemize}
+}
+
+\subchap{Apache Point Observatory, DIS \& ARCTIC, 6 nights}{2020-2021}{%
+    %      \begin{newitemize}
+    %     \item ``Monitoring Circumstellar Debris around a Runaway SN Ia Donor''
+    %     \item ``Peculiar Hypervelocity Stars from Gaia EDR3''
+    %     \item ``Time-resolved RVs of Massive WDs in Close Binary Systems''
+    % \end{newitemize}
+}
+
+ \subchap{Neils Gehrels Swift Observatory, UVOT, 1 hour}{2021}{%
+    % \begin{newitemize}
+    %     \item ``ToO: A 99-minute WD+WD Binary'', Co-PI with Gagik Tovmassian.
+    % \end{newitemize}
+}
+
+
+\vspace{0.2cm}
+{\fontsize{11.4}{13}\selectfont \underline{\fontspec[Path = fonts/]{CrimsonText-SemiBold} Co-Investigator:}}
+\vspace{0.2cm}
+
+\subchap{MMT Observatory, Hectochelle, 5 nights}{2025}{
+}
+
+
+\subchap{WIYN 3.5m, NEID, 3 nights}{2025}{
+        % \begin{newitemize}
+        %   \item ``Ancient Giants: Probing Hot Jupiters in the Galactic Thick Disk'', PI: Victoria DiTomasso.
+        % \end{newitemize}
+}
+
+\subchap{ESO Very Large Telescope, X-Shooter, 8 hours}{2023}{
+        % \begin{newitemize}
+        %   \item ``The Fastest Stars in the Galaxy'', PI: Kareem El-Badry.
+        % \end{newitemize}
+}
+
+\subchap{CTIO Blanco, DECam, 54 nights}{2023}{
+        % \begin{newitemize}
+        %   \item ``The DECam MAGIC Survey: Mapping the Ancient Galaxy in CaHK'', PI: Anirudh Chiti.
+        % \end{newitemize}
+}
+
+\subchap{James Webb Space Telescope, NIRCAM, 48 hours}{2023}{
+    % \begin{newitemize}
+    %     \item ``A Pristine IMF Probe of the Star-Forming Conditions in the Early Universe'', PI: Mario Gennaro
+    %     \item ``Does the Stellar Initial Mass Function Depend on Metallicity?'', PI: Roger Cohen
+    % \end{newitemize}
+}
+
+\subchap{Gemini Observatory, GMOS, 7 hours}{2023}{
+    % \begin{newitemize}
+    %     \item ``The Fastest Stars in the Galaxy'', PI: Kareem El-Badry
+    %     \item ``Discovery of a rare massive double-lined WD binary'', PI: Gautham Pallathadka$^\ast$
+    %     \item ``Probing the Mass-Radius Relation of White Dwarfs With Wide Binaries'', PI: Stefan Arseneau$^\ast$
+    % \end{newitemize}
+}
+
+    \subchap{Magellan Observatory, MagE, 7 nights}{2022-2023}{
+    % \begin{newitemize}
+    %     \item ``Bringing the \textit{Gaia} Revolution to the Brink of our Galaxy'', PI: Rohan Naidu
+    %     \item ``The progenitors of extremely low-mass white dwarfs'', PI: Kareem El-Badry
+    % \end{newitemize}
+    }
+
+    \subchap{Apache Point Observatory, DIS, 3 nights}{2022}{
+    % \begin{newitemize}
+    %     \item ``Astrophysics of Stellar Binaries'', PI: Nadia Zakamska
+    %     \item ``Following up Double White Dwarf Binaries found in SDSS-V'', PI: Nadia Zakamska
+    % \end{newitemize}
+    }
+
+
+}
+
+\chap{Teaching}{
+
+  \subchap{Teaching Fellow, ASTRON 202a: Galaxies and Cosmology, Harvard}{Spring, 2024}{
+    }
+
+  \subchap{Teaching Fellow, ASTRON 120: Stellar Physics, Harvard}{Spring, 2023}{
+    }
+
+  \subchap{Teaching Assistant, 360.133: Great Books at Hopkins, JHU}{Fall, 2018}{
+    }
+    
+  \subchap{Teaching Assistant, 171.101: General Physics I, JHU}{Summer, 2018}{
+    }
+}
+% \clearpage
+
+\chap{Professional Service}{
+
+\subchap{Deputy Project Scientist, \href{https://via-project.org/}{Via Project}}{2022-Present}{}
+
+\subchap{Journal Referee ($11\times$: Nature, ApJ, ApJL, ApJS, MNRAS, A\&A, PASP, JATIS)}{2022-Present}{}
+
+% \subchap{Consortium Member (SDSS-V, DESI, Euclid)}{2020-Present}{}
+
+\subchap{Faculty Search Committee, Harvard Astronomy}{2023-2024}{}
+
+% \subchap{Member, \href{https://delve-survey.github.io/}{DELVE-MAGIC} Survey}{2023-Present}{}
+
+\subchap{Lead Organizer, Harvard Astronomy Student-Faculty Forum}{2023-2024}{}
+
+% \subchap{Member, \href{https://www.sdss.org/}{Sloan Digital Sky Survey V}}{2020-Present}{}
+
+\subchap{Representative, Harvard Astronomy Student-Faculty Council}{2021-2023}{}
+
+}
+
+
+\chap{Outreach}{
+
+  \subchap{Representative, Astronomy Graduate Student Congress}{2023-2026}{
+    }
+
+\subchap{Guest Speaker}{2023-Present}{
+
+    \begin{newitemize}
+        \item Gloucester Area Astronomy Club, 50 attendees (\href{https://youtu.be/gjNIibwK3g8?si=ndOhbvKtwBvMVjKG&t=44}{video})
+        \item The Shri Ram School, 200 high-school students
+    \end{newitemize}
+    
+    }
+
+  \subchap{Executive Committee, CfA Social \& Recreational Club}{2021-2023}{
+    }
+
+  % \subchap{Head of Logistics, JHU MedHacks Hackathon}{2018-2019}{
+    % }
+    
+  % \subchap{Contributing Writer,  \href{https://space.stackexchange.com/users/1028/vedant-chandra}{{space.stackexchange.com}}}{2014-2018}{
+  %   }
+}
+% \clearpage
+\chap{Selected Press Coverage}{
+
+\subchap{Discovery in SDSS-V of the most metal-poor star yet known (\href{https://ui.adsabs.harvard.edu/abs/2025arXiv250921643J/abstract}{Ji, Chandra et al 2026}; \href{https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..283C/abstract}{Chandra et al 2026})}{}{
+    \begin{newitemize}
+      \item \href{https://carnegiescience.edu/found-most-pristine-star-universe}{Carnegie Science},
+      \href{https://www.newscientist.com/article/2498843-exceptional-star-is-the-most-pristine-object-known-in-the-universe/}{New Scientist},
+      \href{https://gizmodo.com/primeval-star-may-be-the-most-pristine-object-ever-discovered-in-the-universe-2000668098}{Gizmodo},
+      \href{https://www.independent.co.uk/space/pristine-star-universe-astronomy-big-bang-b2842496.html}{The Independent}
+    \end{newitemize}
+}
+\subchap{Discovery of the Magellanic Stellar Stream (\href{https://ui.adsabs.harvard.edu/abs/2023ApJ...956..110C/abstract}{Chandra et al 2023})}{}{
+    \begin{newitemize}
+      \item \href{https://www.cfa.harvard.edu/news/distant-stars-spotted-first-time-vast-magellanic-stream}{CfA Press Release},
+      \href{https://skyandtelescope.org/astronomy-news/astronomers-find-stars-cast-away-from-galactic-neighbors/}{Sky \& Telescope Magazine},
+      \href{https://www.newscientist.com/article/2382128-stars-found-hidden-in-huge-cloud-wrapped-around-the-milky-way/}{New Scientist}
+      % , \href{https://www.youtube.com/watch?v=YwMV8zEYPIU}{Anton Petrov}
+    \end{newitemize}
+}
+\subchap{Discovery of the `Poor Old Heart' of the Milky Way (\href{https://ui.adsabs.harvard.edu/abs/2022ApJ...941...45R/abstract}{Rix, Chandra et al 2022})}{}{
+    \begin{newitemize}
+      \item \href{https://www.mpia.de/news/science/2022-19-ancient-heart}{MPIA Press Release},
+      \href{https://www.quantamagazine.org/with-ai-astronomers-dig-up-the-stars-that-birthed-the-milky-way-20230328/}{Quanta Magazine},
+      \href{https://www.sciencenews.org/article/milky-way-galaxy-nucleus-oldest-stars-protogalaxy}{ScienceNews Magazine}
+      % , \href{https://www.youtube.com/watch?v=vwX-lJnN2es}{Anton Petrov}
+    \end{newitemize}
+}
+
+% \subchap{Discovery of `Specter', the faintest known disrupted dwarf galaxy (\href{https://ui.adsabs.harvard.edu/abs/2022ApJ...940..127C/abstract}{Chandra et al 2022})}{}{
+%     \begin{newitemize}
+%       \item \href{https://astrobites.org/2022/08/11/ghost-in-bootes/}{astrobites}
+%     \end{newitemize}
+% }
+
+\subchap{Novel measurements of the white dwarf mass-radius relation (\href{https://ui.adsabs.harvard.edu/abs/2020ApJ...899..146C/abstract}{Chandra et al 2021})}{}{
+    \begin{newitemize}
+      \item \href{https://bit.ly/2PbIJEc}{JHU Press Release},
+      \href{https://bit.ly/3kxXT4W}{ScienceNews Magazine}
+    \end{newitemize}
+}
+}
+
+% \subchap{Discovery in SDSS-V of the most metal-poor star yet known (\href{https://ui.adsabs.harvard.edu/abs/2025arXiv250921643J/abstract}{Ji, Chandra et al 2026})}{}{
+%     \begin{newitemize}
+%       \item \href{https://carnegiescience.edu/found-most-pristine-star-universe}{Carnegie Science}, ``Found: Most pristine star in the universe''
+%       \item \href{https://www.newscientist.com/article/2498843-exceptional-star-is-the-most-pristine-object-known-in-the-universe/}{New Scientist}, ``Exceptional star is the most pristine object known in the universe''
+%       \item \href{https://gizmodo.com/primeval-star-may-be-the-most-pristine-object-ever-discovered-in-the-universe-2000668098}{Gizmodo}, ``Primeval Star May Be the Most ‘Pristine’ Object Ever Discovered in the Universe''
+%     \item \href{https://www.independent.co.uk/space/pristine-star-universe-astronomy-big-bang-b2842496.html}{The Independent}, ``The most ‘pristine’ star in the universe discovered by astronomers''
+%     \end{newitemize}
+% }
+
+% \subchap{Discovery of the Magellanic Stellar Stream (\href{https://ui.adsabs.harvard.edu/abs/2023ApJ...956..110C/abstract}{Chandra et al 2023})}{}{
+%     \begin{newitemize}
+%       \item \href{https://www.cfa.harvard.edu/news/distant-stars-spotted-first-time-vast-magellanic-stream}{CfA Press Release}, ``Distant Stars Spotted for the First Time in the Vast Magellanic Stream''
+%       \item \href{https://skyandtelescope.org/astronomy-news/astronomers-find-stars-cast-away-from-galactic-neighbors/}{Sky \& Telescope Magazine}, ``Astronomers find stars cast away from Galactic neighbors''
+%       \item \href{https://www.newscientist.com/article/2382128-stars-found-hidden-in-huge-cloud-wrapped-around-the-milky-way/}{New Scientist}, ``Stars found hidden in huge cloud wrapped around the Milky Way''
+%       % \item \href{https://www.youtube.com/watch?v=YwMV8zEYPIU}{Anton Petrov}, ``Updates About Strange Structure Known as Magellanic Stream''
+%     \end{newitemize}
+% }
+
+
+% \subchap{Discovery of the `Poor Old Heart' of the Milky Way (\href{https://ui.adsabs.harvard.edu/abs/2022ApJ...941...45R/abstract}{Rix, Chandra et al 2022})}{}{
+%     \begin{newitemize}
+%       \item \href{https://www.mpia.de/news/science/2022-19-ancient-heart}{MPIA Press Release}, ``Astronomers identify the ancient heart of the Milky Way galaxy''
+%       \item \href{https://www.quantamagazine.org/with-ai-astronomers-dig-up-the-stars-that-birthed-the-milky-way-20230328/}{Quanta Magazine}, ``Astronomers Dig Up the Stars That Birthed the Milky Way''
+%       \item \href{https://www.sciencenews.org/article/milky-way-galaxy-nucleus-oldest-stars-protogalaxy}{ScienceNews Magazine}, ``A protogalaxy in the Milky Way may be our galaxy’s original nucleus''
+%       % \item \href{https://www.youtube.com/watch?v=vwX-lJnN2es}{Anton Petrov}, ``Original Core of Milky Way Galaxy Found Using Gaia Telescope''
+%     \end{newitemize}
+% }
+
+% \subchap{Discovery of `Specter', the faintest known disrupted dwarf galaxy (\href{https://ui.adsabs.harvard.edu/abs/2022ApJ...940..127C/abstract}{Chandra et al 2022})}{}{
+%     \begin{newitemize}
+%       \item \href{https://astrobites.org/2022/08/11/ghost-in-bootes/}{astrobites}, ``The Haunting of Bo\"otes' Backyard''
+%     \end{newitemize}
+% }
+
+% \subchap{Novel measurements of the white dwarf mass-radius relation (\href{https://ui.adsabs.harvard.edu/abs/2020ApJ...899..146C/abstract}{Chandra et al 2021})}{}{
+%     \begin{newitemize}
+%       \item \href{https://bit.ly/2PbIJEc}{JHU Press Release}, ``Johns Hopkins astrophysicists observe long-theorized quantum phenomena''
+%       \item \href{https://bit.ly/3kxXT4W}{ScienceNews Magazine}, ``Paradoxically, white dwarf stars shrink as they gain mass''
+%     \end{newitemize}
+% }
+
+
+\chap{Talks}{
+
+\vspace{0.1cm}
+{\fontsize{11.4}{13}\selectfont \underline{\fontspec[Path = fonts/]{CrimsonText-SemiBold} Invited Talks and Seminars} (\textdagger~indicates invited plenary/review)}
+\vspace{0.2cm} 
+
+  \subchap{Galaxy Lunch, Yale University}{April, 2026}{
+}
+
+  \subchap{Astrophysics Seminar, University of Notre Dame}{March, 2026}{
+}
+
+  \subchap{KICP Seminar, University of Chicago}{October, 2025}{
+}
+
+  \subchap{Lunch Talk, UC Berkeley}{October, 2025}{
+}
+
+\subchap{KIPAC Tea Talk, Stanford University}{October, 2025}{
+}
+
+\subchap{Tea Talk, California Institute of Technology}{September, 2025}{
+}
+
+  \subchap{Lunch Talk, Carnegie Observatories}{September, 2025}{
+}
+
+  \subchap{Afternoon Science Talk, MIT Kavli Institute}{September, 2025}{
+    }
+
+  \subchap{CCAPP Price Prize Seminar, The Ohio State University}{September, 2025}{
+    }
+
+  \subchap{$^{\textdagger}$XMC II: Clouds Over Yellowstone, Bozeman (\href{https://youtu.be/GAzwOOdsj34?si=hGQAXftypZUGxjBO&t=2329}{video})}{May, 2025}{
+    }
+
+  \subchap{Tea Talk, California Institute of Technology}{November, 2024}{
+    }
+
+  \subchap{Decade of Illustris Meeting, Castello di Gargonza}{October, 2024}{
+    }
+
+  \subchap{Wine \& Cheese Seminar, Johns Hopkins University}{September, 2024}{
+    }
+
+  \subchap{Astrophysics Coffee, The Institute for Advanced Study}{September, 2024}{
+    }
+
+  \subchap{Galaxy Coffee, Max Planck Institute for Astronomy}{June, 2024}{
+    }
+
+
+  \subchap{Galaxy Coffee, Max Planck Institute for Astronomy}{July, 2023}{
+    }
+
+  \subchap{Online Meetings on Evolved Stars and Systems (\href{https://youtu.be/P6rFIFAp3kA}{video})}{December, 2021}{
+    }
+
+  \subchap{Astrophysics Coffee, Institute for Advanced Study}{October, 2021}{
+    }
+
+  
+}
+
+\vspace{0.2cm}
+{\fontsize{11.4}{13}\selectfont \underline{\fontspec[Path = fonts/]{CrimsonText-SemiBold} Contributed Talks}}
+\vspace{0.2cm}
+
+    \subchap{NHFP Symposium, CfA | Harvard \% Smithsonian}{October, 2026}{
+    }
+
+    \subchap{Probe Combination for DM Physics, The University of Chicago}{September, 2026}{
+    }
+
+    \subchap{MMT Symposium, The University of Arizona}{April, 2026}{
+    }
+
+    \subchap{AAS 247 Winter Meeting, The American Astronomical Society}{January, 2026}{
+    }
+
+    \subchap{SDSS-V Collaboration Meeting, Max Planck Institute for Astronomy}{June, 2025}{
+    }
+    
+    \subchap{Magellan Science Meeting, Carnegie EPL}{May, 2025}{
+    }
+    
+    \subchap{The Milky Way Assembly Tale, INAF Bologna}{May, 2024}{
+    }
+    
+    \subchap{Milky Clouds Above Manhattan, Flatiron CCA}{February, 2024}{
+    }
+    
+    \subchap{ITC Luncheon, CfA $|$ Harvard \& Smithsonian (\href{https://www.youtube.com/live/1WUj-C2-xUM?feature=shared&t=2218}{video})}{February, 2024}{
+    }
+    
+    \subchap{Supernova Explosions (SNEx) Meeting}{November, 2023}{
+    }
+    
+    \subchap{Central Halo Workshop, University of Cambridge}{September, 2023}{
+    }
+    
+    \subchap{ITC Luncheon, CfA $|$ Harvard \& Smithsonian (\href{https://youtu.be/kdX47Flj4Bo?si=yxY4ZJ1UUhKMyv8T&t=1380}{video})}{September, 2023}{
+    }
+    
+    
+    \subchap{SDSS-V Collaboration Meeting, Flatiron CCA}{August, 2023}{
+    }
+    
+    \subchap{Gaia XPloration Workshop, University of Cambridge}{May, 2023}{
+    }
+    
+    \subchap{Wide Field Spectroscopy vs Galaxy Formation Theory}{March, 2023}{
+    }
+    
+    \subchap{Disk Formation Workshop, UC Irvine}{September, 2022}{
+    }
+    
+    \subchap{ITC Luncheon, CfA $|$ Harvard \& Smithsonian (\href{https://youtu.be/-0HEAkL7coo?t=573}{video})}{September, 2022}{
+    }
+    
+      \subchap{Space Telescope Science Institute, Summer Symposium}{July, 2020}{
+    }
+    
+    \subchap{Space Telescope Science Institute, Summer Symposium}{August, 2019}{
+    }
+    
+    \subchap{Maryland Space Grant Consortium, Annual Symposium}{July, 2019}{
+    }
+
+
+
+\chap{References}{
+
+\subchap{Charlie Conroy, Harvard University}{}{PhD Advisor, \href{mailto:cconroy@cfa.harvard.edu}{cconroy@cfa.harvard.edu}}
+
+\subchap{Hans-Walter Rix,  Max Planck Institute for Astronomy}{}{Advisor, \href{mailto:rix@mpia.de}{rix@mpia.de}}
+
+\subchap{Daniel Fabricant, Smithsonian Astrophysical Observatory}{}{Advisor, \href{mailto:dfabricant@cfa.harvard.edu}{dfabricant@cfa.harvard.edu}}
+
+\subchap{Nadia L. Zakamska, Johns Hopkins University}{}{Advisor, \href{mailto:zakamska@jhu.edu}{zakamska@jhu.edu}}
+
+% \subchap{Daniel J. Eisenstein, Harvard University}{}{TAC Chair, \href{mailto:deisenstein@cfa.harvard.edu}{deisenstein@cfa.harvard.edu}}
+
+% \subchap{Lars Hernquist, Harvard University}{}{Teaching Reference, \href{mailto:lhernquist@cfa.harvard.edu}{lhernquist@cfa.harvard.edu}}
+
+}
+\clearpage
+\fi
+\ifshowpubs
+\noindent
+\ifshowpubs
+  \ifshowcv
+    \begin{center}
+    {\Large Publication List (\href{https://ui.adsabs.harvard.edu/public-libraries/frBgq47XRVm5Oy_ielR_6w}{ADS Library})}
+    \end{center}
+  \else
+    \ntot{} refereed publications, \nlead{} as lead author, \nco{} as second/supervising author; \textit{h}-index $=\hindex$. \\. 
+  \fi
+\fi
+
+\noindent
+Project advisees are highlighted with an asterisk$^\ast$
+
+\chap{Lead-Author Publications}{
+\vspace{-5pt}
+
+
+\input{generated/pubs-lead}
+}
+
+
+\chap{Publications as Co-Lead or Supervising Author}{
+\vspace{-5pt}
+\input{generated/pubs-colead}
+}
+
+\chap{Co-Authored Publications}{
+\vspace{-5pt}
+\input{generated/pubs-other}
+}
+
+% \clearpage
+\chap{Unrefereed Publications}{
+
+\begin{etaremune}\fontsize{1em}{1em}\fontspec[Path = fonts/,LetterSpace= 0,BoldFont=CrimsonText-Bold,ItalicFont=CrimsonText-Italic]{CrimsonText-Roman}
+
+ \item \textbf{Via Collaboration} (2026)\\ 
+ ``{The Via Project: Overview of the Science, Instrument, and Survey}''\\
+ \textit{\href{https://ui.adsabs.harvard.edu/abs/2026arXiv260618332T/abstract}{White Paper}}
+
+ \item Sy Boles \& \textbf{Vedant Chandra} (2025)\\ 
+ ``{Strange galactic facts}''\\
+ \textit{\href{https://news.harvard.edu/gazette/story/2025/05/strange-galactic-facts/}{The Harvard Gazette}}
+
+ \item Arjun Dey, Joan Najita, Carrie Fillion, et al (2023)\\ 
+ ``{RomAndromeda: The Roman Survey of the Andromeda Halo}''\\
+ \textit{{NASA Roman Core Community Survey White Paper}}
+
+  \item Jiwon Jesse Han, Arjun Dey, Adrian M. Price-Whelan, et al (2022)\\ 
+ ``{NANCY: Next-generation All-sky Near-infrared Community surveY}''\\
+ \textit{{NASA Roman Core Community Survey White Paper}}
+
+ \item Charlie Conroy, Dan Fabricant, Nelson Caldwell, \textbf{Vedant Chandra}, et al (2022)\\ 
+ ``{A Fast All-Sky Spectroscopic Survey to Discover the Nature of Dark Matter, Find the Edge of Galaxy Formation, and Map the Cold Gas Feeding the Milky Way}''\\
+ \textit{{CfA Science \& Technology White Paper}}
+ 
+ \item \textbf{Vedant Chandra} (2020)\\ 
+ ``{Measuring the White Dwarf Mass-Radius Relation using Thousands of Stars}''\\
+ \textit{\href{https://astrobites.org/2020/09/28/ur-29-measuring-the-white-dwarf-mass-radius-relation-using-thousands-of-stars/}{astrobites}}
+
+\end{etaremune}
+
+%   \subchap{\href{https://astrobites.org/2020/09/28/ur-29-measuring-the-white-dwarf-mass-radius-relation-using-thousands-of-stars/}{astrobites}}{September, 2020}{
+%     % \begin{newitemize}
+%     %   \item ``Measuring the White Dwarf Mass-Radius Relation using Thousands of Stars''
+%     % \end{newitemize}
+%     % }
+    
+}
+
+\fi
+
+\end{document}

@@ -1,0 +1,56 @@
+# The human layer over ADS. build_pubs.py reads this; everything in
+# generated/ is disposable and rebuilt from ADS + this file.
+
+libraries:
+  all:        frBgq47XRVm5Oy_ielR_6w
+  lead:       6VSthsHLRHaBDHIdrJvRmg
+  leadcolead: fyr5QiL9QyOzGGOdbxlB7A
+
+# Bolded in every author list. Must be the canonical (post-name_fixes) form.
+self_ads_name: "Chandra, Vedant"
+
+# Author-list style. <= max_authors: list them all (two joined with "&").
+# More than that: first etal_authors, then "et al.".
+max_authors: 4
+etal_authors: 3
+
+# \ntot counts every entry by default, matching how the CV read before.
+# Set true to count only doctype=article (drops preprints) -- the build
+# prints both numbers each run so you can compare.
+refereed_only: false
+
+# ADS is not self-consistent about some names. Map raw ADS spelling ->
+# the one spelling you want. Applied before self/advisee matching.
+name_fixes:
+  "Adamane Pallathadka, Gautham": "Pallathadka, Gautham A."
+  "Pallathadka, Gautham Adamane": "Pallathadka, Gautham A."
+  "Arseneau, Stefan M.": "Arseneau, Stefan"
+
+# Marked with a superscript asterisk. Canonical spellings only.
+advisees:
+  - "Pallathadka, Gautham A."
+  - "Arseneau, Stefan"
+  - "Crumpler, Nicole R."
+  - "Thai, Riley"
+  - "Tajer, Haniyeh"
+  - "Xia, Hongbo"
+  - "Liu, Astrid"
+  - "Miller, Catherine"
+  - "Chiu, Camille"
+  - "White, Abigail"
+
+# In an ADS library but not a refereed CV entry. The Via overview lives in
+# the hand-written "Unrefereed Publications" section of minimal-resume.tex.
+exclude:
+  - 2026arXiv260618332V   # The Via Project: Overview -- white paper
+
+# ADS cannot know where an eprint was submitted. Without an entry here the
+# build falls back to the arXiv comment field, and warns when it guesses.
+# Entries here are reported as stale once the paper is published.
+journal_overrides: {}
+  # 2026arXiv260726149S: "The Astrophysical Journal Supplement Series, submitted"
+  # 2026arXiv260722822M: "The Astrophysical Journal, submitted"
+
+# Force a display year, e.g. when a paper is in press for next volume year.
+year_overrides: {}
+

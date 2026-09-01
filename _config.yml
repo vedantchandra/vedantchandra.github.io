@@ -1,6 +1,6 @@
 title: Vedant Chandra
-logo: /vedantchandra.github.io/assets/headshot_2026.jpg
+logo: /assets/headshot_2026.jpg
 description: Massachusetts Institute of Technology
 theme: jekyll-theme-minimal
-baseurl: /vedantchandra.github.io
+baseurl: ""   # served at the root of vedantchandra.com (see CNAME)
 google_analytics: G-XX2JYW4JXH

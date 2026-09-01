@@ -2,7 +2,7 @@
 
 My research is primarily centered around our home galaxy, the Milky Way. I study how our galaxy grew and evolved by mapping the furthest outskirts of the Milky Way, and measuring its structure and dynamics on the largest scales. I am also keenly interested in understanding the physical nature of dark matter using astrophysical detectors like stellar streams and dwarf galaxies. I seek answers to these questions primarily by designing, conducting, and analyzing large spectroscopic surveys, from instrumentation to astrophysics. 
 
-On this page I briefly summarize the major themes of my research, along with some representative publications that I've lead or co-lead. Projects on which I served as an advisor/mentor are highlighted with asterisks.
+On this page I briefly summarize the major themes of my research, along with some representative publications that I've led or co-led. Projects on which I served as an advisor/mentor are highlighted with asterisks.
 
 <h2 id="oh">The Via Project</h2>
 
