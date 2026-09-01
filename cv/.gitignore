@@ -1,0 +1,8 @@
+*.aux
+*.log
+*.out
+*.toc
+*.bak
+.DS_Store
+minimal-resume.pdf
+__pycache__/
