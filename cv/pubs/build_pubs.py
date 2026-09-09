@@ -305,9 +305,12 @@ def render_journal(doc, cfg, warn):
                     f"{name!r} ({status}) -- pin it in overrides.yaml if wrong")
         return f"{clean(name)}, {status}"
 
+    # Last resort. Not "submitted": nothing here says it was submitted
+    # anywhere, and for a white paper that is simply untrue. State only what
+    # the record proves -- the warning above asks for the real venue.
     warn.append(f"NO journal known for preprint {bib} -- add to "
                 f"journal_overrides in overrides.yaml")
-    return "submitted"
+    return "arXiv preprint"
 
 
 def render_item(doc, cfg, warn):

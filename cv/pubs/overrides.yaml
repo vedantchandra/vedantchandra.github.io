@@ -39,15 +39,16 @@ advisees:
   - "Chiu, Camille"
   - "White, Abigail"
 
-# In an ADS library but not a refereed CV entry. The Via overview lives in
-# the hand-written "Unrefereed Publications" section of minimal-resume.tex.
-exclude:
-  - 2026arXiv260618332V   # The Via Project: Overview -- white paper
+# In an ADS library but not wanted as a generated CV entry. Empty: the Via
+# overview used to be listed here and typed by hand instead, but it now flows
+# through from ADS like everything else.
+exclude: []
 
 # ADS cannot know where an eprint was submitted. Without an entry here the
 # build falls back to the arXiv comment field, and warns when it guesses.
 # Entries here are reported as stale once the paper is published.
-journal_overrides: {}
+journal_overrides:
+  2026arXiv260618332V: "White Paper"    # Via overview -- no journal venue
   # 2026arXiv260726149S: "The Astrophysical Journal Supplement Series, submitted"
   # 2026arXiv260722822M: "The Astrophysical Journal, submitted"
 
