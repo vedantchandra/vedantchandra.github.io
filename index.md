@@ -31,6 +31,6 @@ Here is the latest [PDF of my CV]({{site.baseurl}}/assets/cv.pdf). Some addition
 
 <h1 id="contact">Contact Me</h1>
 
-vedant.chandra [at] cfa.harvard.edu <br>
+chandra [at] mit.edu <br>
 LinkedIn: [vedant-chandra](https://www.linkedin.com/in/vedant-chandra/) <br>
 ORCID: <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> [0000-0002-0572-8012](https://orcid.org/0000-0002-0572-8012) <br>

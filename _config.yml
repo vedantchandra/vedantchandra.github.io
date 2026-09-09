@@ -4,3 +4,12 @@ description: Massachusetts Institute of Technology
 theme: jekyll-theme-minimal
 baseurl: ""   # served at the root of vedantchandra.com (see CNAME)
 google_analytics: G-XX2JYW4JXH
+
+# Jekyll publishes every file in the repo unless it is excluded here. Without
+# this block, /cv/minimal-resume.tex, /cv/pubs/overrides.yaml and ~20 font
+# files were served publicly. The CV's published form is /assets/cv.pdf.
+exclude:
+  - cv/
+  - Makefile
+  - README.md
+  - .vscode/

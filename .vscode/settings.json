@@ -1,0 +1,50 @@
+{
+  // ---------------------------------------------------------------------
+  // This CV MUST build with XeLaTeX: config/minimal-resume.sty uses fontspec
+  // with the local font files in cv/fonts/. LaTeX Workshop's stock "latexmk"
+  // recipe passes -pdf (= pdflatex), which cannot load them and fails.
+  // Pinning a single xelatex recipe here removes the choice entirely.
+  // ---------------------------------------------------------------------
+  "latex-workshop.latex.tools": [
+    {
+      "name": "xelatexmk",
+      "command": "latexmk",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-xelatex",
+        // -cd: compile from cv/, so `Path=fonts/` and \input{config/...}
+        // resolve no matter which folder VS Code has open.
+        "-cd",
+        "%DOC%"
+      ]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    { "name": "latexmk (xelatex)", "tools": ["xelatexmk"] }
+  ],
+  "latex-workshop.latex.recipe.default": "first",
+
+  // PDF next to the .tex, which is where cv/Makefile expects to find it,
+  // so an editor build and `make publish` agree.
+  "latex-workshop.latex.outDir": "%DIR%",
+
+  // Build on save rather than on every keystroke; ~2.5s for this document.
+  // The empty ignore list means editing config/*.sty rebuilds too.
+  "latex-workshop.latex.autoBuild.run": "onSave",
+  "latex-workshop.latex.autoBuild.onSave.files.ignore": [],
+
+  // Never auto-clean: the Makefile's `check` target reads minimal-resume.log.
+  "latex-workshop.latex.autoClean.run": "never",
+
+  // Outline (Ctrl+Shift+O / the LaTeX sidebar) for a 776-line one-file CV.
+  // \chap and \subchap are this template's section commands.
+  "latex-workshop.view.outline.sections": ["chap", "subchap"],
+  "latex-workshop.view.pdf.viewer": "tab",
+
+  "[latex]": {
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2
+  }
+}
