@@ -1,8 +1,13 @@
+# LaTeX build artefacts. The tracked CV artefact is ../assets/cv.pdf.
 *.aux
 *.log
 *.out
 *.toc
 *.bak
+*.xdv
+*.synctex.gz
+*.fls
+*.fdb_latexmk
 .DS_Store
 minimal-resume.pdf
 __pycache__/

@@ -130,22 +130,35 @@ def fetch_all(cfg):
 # U+2500 BOX DRAWINGS LIGHT HORIZONTAL where an en-dash belongs ("Mass─Radius").
 UNICODE_MATH = {
     "⊙": r"\odot", "⊕": r"\oplus", "±": r"\pm",
-    "≤": r"\leq", "≥": r"\geq", "−": "-", "×": r"\times",
+    "≤": r"\leq", "≥": r"\geq", "×": r"\times",
+    "≲": r"\lesssim", "≳": r"\gtrsim", "≈": r"\approx", "∼": r"\sim",
+    "∝": r"\propto", "°": r"^\circ", "′": r"^\prime",
+    "α": r"\alpha", "β": r"\beta", "γ": r"\gamma", "δ": r"\delta",
+    "λ": r"\lambda", "μ": r"\mu", "σ": r"\sigma", "Δ": r"\Delta",
 }
+UNICODE_TEXT = {"−": "-"}    # a minus sign in a title is just a hyphen
 DASHES = {"─": "--", "—": "---", "–": "--", "‐": "-"}
 ESCAPE = {"&": r"\&", "%": r"\%", "#": r"\#", "_": r"\_"}
 
 
-def _escape_outside_math(s):
-    """Escape LaTeX specials, leaving $...$ spans untouched."""
+def _sub_outside_math(s):
+    """Escape LaTeX specials and convert stray Unicode, leaving $...$ alone.
+
+    A math symbol needs $...$ around it in text mode but must NOT be wrapped
+    again inside an existing math span (from a <SUB>/<SUP> tag), hence the
+    split.
+    """
     out = []
     for i, seg in enumerate(s.split("$")):
-        if i % 2:                      # inside math
-            out.append(seg)
+        if i % 2:                                    # already inside math
+            for k, v in UNICODE_MATH.items():
+                seg = seg.replace(k, v)
         else:
             for k, v in ESCAPE.items():
                 seg = seg.replace(k, v)
-            out.append(seg)
+            for k, v in UNICODE_MATH.items():
+                seg = seg.replace(k, f"${v}$")
+        out.append(seg)
     return "$".join(out)
 
 
@@ -156,10 +169,21 @@ def clean(s, warn=None):
     s = re.sub(r"</?[A-Za-z]+>", "", s)          # any stray SGML
     for k, v in DASHES.items():
         s = s.replace(k, v)
-    for k, v in UNICODE_MATH.items():            # only meaningful in math
+    for k, v in UNICODE_TEXT.items():
         s = s.replace(k, v)
-    s = _escape_outside_math(s)
+    s = _sub_outside_math(s)
     s = re.sub(r"\s+", " ", s).strip()
+    # A symbol the CV font lacks is dropped by XeLaTeX with nothing but a
+    # "Missing character" line in the log, silently altering a paper title.
+    # Accented letters are fine (the font has them); maths and pictographs
+    # are not, so flag those and add them to UNICODE_MATH.
+    if warn is not None:
+        import unicodedata
+        stray = sorted({c for c in s
+                        if ord(c) > 127
+                        and unicodedata.category(c) in ("Sm", "So", "Sk")})
+        if stray:
+            warn.append(f"unmapped symbol {' '.join(stray)} in: {s[:60]}")
     # A stray backslash outside math is almost always an ADS artefact.
     if warn is not None and re.search(r"\\(?![a-zA-Z&%#_])", s):
         warn.append(f"odd backslash in: {s[:60]}")

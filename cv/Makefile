@@ -4,6 +4,8 @@ PDF  := minimal-resume.pdf
 TEX  := minimal-resume.tex
 GEN  := generated/pubs-lead.tex generated/pubs-colead.tex \
         generated/pubs-other.tex generated/pubs-counts.tex
+LOG  := minimal-resume.log
+CFG  := $(wildcard config/*.tex config/*.sty)
 
 # Where the Jekyll site serves the CV from. Relative, so the whole cv/
 # directory stays movable.
@@ -23,7 +25,7 @@ offline:
 # Two passes: etaremune needs the second to settle its numbering.
 pdf: $(PDF)
 
-$(PDF): $(TEX) $(GEN) config/minimal-resume.sty
+$(PDF): $(TEX) $(GEN) $(CFG)
 	xelatex -interaction=nonstopmode $(TEX) >/dev/null
 	xelatex -interaction=nonstopmode $(TEX) >/dev/null
 	@pdfinfo $(PDF) | grep -E '^(Pages|Page size)'
@@ -36,14 +38,19 @@ publish: check
 	  exit 1; }
 	cp $(PDF) $(SITE_PDF)
 	@echo "published -> $(SITE_PDF) ($$(pdfinfo $(SITE_PDF) | awk '/^Pages/{print $$2}') pages)"
-	@echo "   commit assets/cv.pdf to put it live."
+	@echo "   run 'make cv' from the repo root to commit + push it live."
 
 # Fonts embedded, and no LaTeX errors left in the log.
 check: $(PDF)
-	@pdffonts $(PDF) | awk 'NR>2 && $$5!="yes" {print "NOT EMBEDDED:", $$1; bad=1} \
+	@pdffonts $(PDF) | awk 'NR==1 {emb=index($$0,"emb")} \
+	  NR>2 && substr($$0,emb,3)!="yes" {print "NOT EMBEDDED:", $$1; bad=1} \
 	  END {if (!bad) print "all fonts embedded"}'
-	@! grep -q '^!' minimal-resume.log || (echo "LaTeX errors in log"; exit 1)
+	@# Two error formats: bare xelatex writes "! msg", latexmk (and the VS Code
+	@# build) passes -file-line-error and writes "./file.tex:42: msg".
+	@! grep -Eq '^!|^[^ ]+:[0-9]+: ' $(LOG) || { \
+	  echo "LaTeX errors in $(LOG):"; \
+	  grep -E '^!|^[^ ]+:[0-9]+: ' $(LOG) | head -5; exit 1; }
 	@echo "check passed"
 
 clean:
-	rm -f *.aux *.log *.out *.toc $(PDF)
+	rm -f *.aux *.log *.out *.toc *.xdv *.fls *.fdb_latexmk *.synctex.gz $(PDF)
