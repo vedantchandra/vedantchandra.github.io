@@ -1,6 +1,11 @@
 title: Vedant Chandra
 logo: /assets/headshot_2026.jpg
-description: Massachusetts Institute of Technology
+# `description` is search-engine and link-preview text only -- the sidebar no
+# longer prints it. `tagline` is what jekyll-seo-tag puts after the name in
+# <title>; without it, seo-tag falls back to `description` and the browser tab
+# would carry the whole sentence.
+tagline: Massachusetts Institute of Technology
+description: NASA Hubble Fellow at MIT, mapping the outskirts of the Milky Way and the nature of dark matter with large stellar spectroscopic surveys.
 theme: jekyll-theme-minimal
 baseurl: ""   # served at the root of vedantchandra.com (see CNAME)
 google_analytics: G-XX2JYW4JXH
