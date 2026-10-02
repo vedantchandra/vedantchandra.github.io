@@ -1,28 +1,29 @@
 {
  "libraries": {
   "all": [
-   "2026MNRAS.550g1254B",
-   "2026ApJ..1006..217A",
+   "2026ApJ..1009...94D",
+   "2026arXiv261000456C",
    "2026MNRAS.550g1157B",
+   "2026ApJ..1006..217A",
+   "2026MNRAS.550g1254B",
    "2026MNRAS.549ag926B",
-   "2026arXiv260726149S",
    "2026ApJS..285....9S",
+   "2026arXiv260726149S",
    "2026arXiv260722822M",
+   "2026ApJ..1003..188P",
+   "2026NatAs..10..842J",
    "2026OJAp....964326E",
    "2026arXiv260618332V",
-   "2026NatAs..10..842J",
-   "2026ApJ..1003..188P",
    "2026ApJ..1002..207A",
    "2026ApJ..1002L..41A",
-   "2026arXiv260515069D",
-   "2026ApJ..1000L..44L",
    "2026AJ....171..235T",
+   "2026ApJ..1000L..44L",
    "2026ApJ..1000..283C",
-   "2026ApJ...999..251A",
    "2026ApJ..1000..151C",
+   "2026ApJ...999..251A",
    "2026AJ....171...52K",
-   "2025ApJ...991..190A",
    "2025PASP..137j4103S",
+   "2025ApJ...991..190A",
    "2025PASP..137i4202N",
    "2025MNRAS.542..560B",
    "2025ApJ...988..156C",
@@ -38,28 +39,28 @@
    "2024arXiv241001874N",
    "2024ApJ...972..112C",
    "2024ApJ...972...73S",
-   "2024ApJ...968...42A",
    "2024arXiv240612969H",
+   "2024ApJ...968...42A",
    "2024MNRAS.530.2512L",
    "2024ApJS..272....2L",
    "2024AJ....167..173S",
    "2024ApJ...963...17A",
-   "2024ApJ...962...84S",
    "2024ApJ...961L..41J",
+   "2024ApJ...962...84S",
    "2023MNRAS.525.3597I",
    "2023ApJ...956..110C",
    "2023ApJS..267...44A",
+   "2023ApJS..267....8A",
    "2023ApJ...951...26C",
    "2023OJAp....6E..28E",
-   "2023ApJS..267....8A",
-   "2022ApJ...941...45R",
    "2022ApJ...940..127C",
    "2022AJ....164..249H",
+   "2022ApJ...941...45R",
    "2022ApJ...934...14H",
    "2022MNRAS.512.6122C",
    "2022MNRAS.513..754H",
-   "2022arXiv220402989C",
    "2022arXiv220409057N",
+   "2022arXiv220402989C",
    "2022ApJ...926L..36N",
    "2021ApJ...923L..34B",
    "2021ApJ...921..160C",
@@ -69,6 +70,7 @@
    "2020ApJ...899..146C"
   ],
   "lead": [
+   "2026arXiv261000456C",
    "2026ApJ..1000..283C",
    "2025ApJ...988..156C",
    "2024ApJ...972..112C",
@@ -82,8 +84,9 @@
    "2020ApJ...899..146C"
   ],
   "leadcolead": [
-   "2026arXiv260618332V",
+   "2026arXiv261000456C",
    "2026NatAs..10..842J",
+   "2026arXiv260618332V",
    "2026ApJ..1002..207A",
    "2026ApJ..1002L..41A",
    "2026ApJ..1000L..44L",
@@ -100,8 +103,8 @@
    "2024ApJ...963...17A",
    "2023ApJ...956..110C",
    "2023ApJ...951...26C",
-   "2022ApJ...941...45R",
    "2022ApJ...940..127C",
+   "2022ApJ...941...45R",
    "2022MNRAS.512.6122C",
    "2021ApJ...923L..34B",
    "2021ApJ...921..160C",
@@ -915,37 +918,6 @@
    "year": "2026"
   },
   {
-   "bibcode": "2022ApJ...941...45R",
-   "author": [
-    "Rix, Hans-Walter",
-    "Chandra, Vedant",
-    "Andrae, Ren\u00e9",
-    "Price-Whelan, Adrian M.",
-    "Weinberg, David H.",
-    "Conroy, Charlie",
-    "Fouesneau, Morgan",
-    "Hogg, David W.",
-    "De Angeli, Francesca",
-    "Naidu, Rohan P.",
-    "Xiang, Maosheng",
-    "Ruz-Mieres, Daniela"
-   ],
-   "doctype": "article",
-   "page": [
-    "45"
-   ],
-   "pub": "The Astrophysical Journal",
-   "pubnote": [
-    "21 pages, 9 figures, submitted to ApJ; doi:10.3847/1538-4357/ac9e01"
-   ],
-   "pubdate": "2022-12-00",
-   "title": [
-    "The Poor Old Heart of the Milky Way"
-   ],
-   "volume": "941",
-   "year": "2022"
-  },
-  {
    "bibcode": "2024ApJ...961L..41J",
    "author": [
     "Ji, Alexander P.",
@@ -1005,6 +977,37 @@
    ],
    "volume": "961",
    "year": "2024"
+  },
+  {
+   "bibcode": "2022ApJ...941...45R",
+   "author": [
+    "Rix, Hans-Walter",
+    "Chandra, Vedant",
+    "Andrae, Ren\u00e9",
+    "Price-Whelan, Adrian M.",
+    "Weinberg, David H.",
+    "Conroy, Charlie",
+    "Fouesneau, Morgan",
+    "Hogg, David W.",
+    "De Angeli, Francesca",
+    "Naidu, Rohan P.",
+    "Xiang, Maosheng",
+    "Ruz-Mieres, Daniela"
+   ],
+   "doctype": "article",
+   "page": [
+    "45"
+   ],
+   "pub": "The Astrophysical Journal",
+   "pubnote": [
+    "21 pages, 9 figures, submitted to ApJ; doi:10.3847/1538-4357/ac9e01"
+   ],
+   "pubdate": "2022-12-00",
+   "title": [
+    "The Poor Old Heart of the Milky Way"
+   ],
+   "volume": "941",
+   "year": "2022"
   },
   {
    "bibcode": "2025MNRAS.542..560B",
@@ -1108,6 +1111,39 @@
    "year": "2024"
   },
   {
+   "bibcode": "2025ApJ...988..156C",
+   "author": [
+    "Chandra, Vedant",
+    "Naidu, Rohan P.",
+    "Conroy, Charlie",
+    "Garavito-Camargo, Nicolas",
+    "Laporte, Chervin",
+    "Bonaca, Ana",
+    "Cargile, Phillip A.",
+    "Cunningham, Emily",
+    "Han, Jiwon Jesse",
+    "Johnson, Benjamin D.",
+    "Rix, Hans-Walter",
+    "Ting, Yuan-Sen",
+    "Woody, Rebecca",
+    "Zaritsky, Dennis"
+   ],
+   "doctype": "article",
+   "page": [
+    "156"
+   ],
+   "pub": "The Astrophysical Journal",
+   "pubnote": [
+    "32 pages, 22 figures. Accepted to ApJ; doi:10.3847/1538-4357/addab6"
+   ],
+   "pubdate": "2025-08-00",
+   "title": [
+    "All-sky Kinematics of the Distant Halo: The Reflex Response to the LMC"
+   ],
+   "volume": "988",
+   "year": "2025"
+  },
+  {
    "bibcode": "2022arXiv220402989C",
    "author": [
     "Conroy, Charlie",
@@ -1139,6 +1175,30 @@
     "Birth of the Galactic Disk Revealed by the H3 Survey"
    ],
    "year": "2022"
+  },
+  {
+   "bibcode": "2024ApJ...972...73S",
+   "author": [
+    "Semenov, Vadim A.",
+    "Conroy, Charlie",
+    "Chandra, Vedant",
+    "Hernquist, Lars",
+    "Nelson, Dylan"
+   ],
+   "doctype": "article",
+   "page": [
+    "73"
+   ],
+   "pub": "The Astrophysical Journal",
+   "pubnote": [
+    "24 pages, 15 figures; accepted for publication in ApJ"
+   ],
+   "pubdate": "2024-09-00",
+   "title": [
+    "Formation of Galactic Disks. II. The Physical Drivers of Disk Spin-up"
+   ],
+   "volume": "972",
+   "year": "2024"
   },
   {
    "bibcode": "2023OJAp....6E..28E",
@@ -1180,66 +1240,9 @@
    "year": "2023"
   },
   {
-   "bibcode": "2025ApJ...988..156C",
-   "author": [
-    "Chandra, Vedant",
-    "Naidu, Rohan P.",
-    "Conroy, Charlie",
-    "Garavito-Camargo, Nicolas",
-    "Laporte, Chervin",
-    "Bonaca, Ana",
-    "Cargile, Phillip A.",
-    "Cunningham, Emily",
-    "Han, Jiwon Jesse",
-    "Johnson, Benjamin D.",
-    "Rix, Hans-Walter",
-    "Ting, Yuan-Sen",
-    "Woody, Rebecca",
-    "Zaritsky, Dennis"
-   ],
-   "doctype": "article",
-   "page": [
-    "156"
-   ],
-   "pub": "The Astrophysical Journal",
-   "pubnote": [
-    "32 pages, 22 figures. Accepted to ApJ; doi:10.3847/1538-4357/addab6"
-   ],
-   "pubdate": "2025-08-00",
-   "title": [
-    "All-sky Kinematics of the Distant Halo: The Reflex Response to the LMC"
-   ],
-   "volume": "988",
-   "year": "2025"
-  },
-  {
-   "bibcode": "2024ApJ...972...73S",
-   "author": [
-    "Semenov, Vadim A.",
-    "Conroy, Charlie",
-    "Chandra, Vedant",
-    "Hernquist, Lars",
-    "Nelson, Dylan"
-   ],
-   "doctype": "article",
-   "page": [
-    "73"
-   ],
-   "pub": "The Astrophysical Journal",
-   "pubnote": [
-    "24 pages, 15 figures; accepted for publication in ApJ"
-   ],
-   "pubdate": "2024-09-00",
-   "title": [
-    "Formation of Galactic Disks. II. The Physical Drivers of Disk Spin-up"
-   ],
-   "volume": "972",
-   "year": "2024"
-  },
-  {
    "bibcode": "2025ApJ...978..152W",
    "author": [
-    "Woody, Turner",
+    "Woody, Rebecca",
     "Conroy, Charlie",
     "Cargile, Phillip",
     "Bonaca, Ana",
@@ -1297,30 +1300,6 @@
    "year": "2024"
   },
   {
-   "bibcode": "2024ApJ...962...84S",
-   "author": [
-    "Semenov, Vadim A.",
-    "Conroy, Charlie",
-    "Chandra, Vedant",
-    "Hernquist, Lars",
-    "Nelson, Dylan"
-   ],
-   "doctype": "article",
-   "page": [
-    "84"
-   ],
-   "pub": "The Astrophysical Journal",
-   "pubnote": [
-    "19 pages, 13 figures + appendix; accepted for publication in ApJ; ApJ 962, 84 (2024); doi:10.3847/1538-4357/ad150a"
-   ],
-   "pubdate": "2024-02-00",
-   "title": [
-    "Formation of Galactic Disks. I. Why Did the Milky Way's Disk Form Unusually Early?"
-   ],
-   "volume": "962",
-   "year": "2024"
-  },
-  {
    "bibcode": "2023ApJ...956..110C",
    "author": [
     "Chandra, Vedant",
@@ -1348,6 +1327,30 @@
    ],
    "volume": "956",
    "year": "2023"
+  },
+  {
+   "bibcode": "2024ApJ...962...84S",
+   "author": [
+    "Semenov, Vadim A.",
+    "Conroy, Charlie",
+    "Chandra, Vedant",
+    "Hernquist, Lars",
+    "Nelson, Dylan"
+   ],
+   "doctype": "article",
+   "page": [
+    "84"
+   ],
+   "pub": "The Astrophysical Journal",
+   "pubnote": [
+    "19 pages, 13 figures + appendix; accepted for publication in ApJ; ApJ 962, 84 (2024); doi:10.3847/1538-4357/ad150a"
+   ],
+   "pubdate": "2024-02-00",
+   "title": [
+    "Formation of Galactic Disks. I. Why Did the Milky Way's Disk Form Unusually Early?"
+   ],
+   "volume": "962",
+   "year": "2024"
   },
   {
    "bibcode": "2026ApJ..1000..283C",
@@ -1522,6 +1525,60 @@
    "year": "2022"
   },
   {
+   "bibcode": "2024ApJS..272....2L",
+   "author": [
+    "Li, Jiadong",
+    "Wong, Kaze W. K.",
+    "Hogg, David W.",
+    "Rix, Hans-Walter",
+    "Chandra, Vedant"
+   ],
+   "doctype": "article",
+   "page": [
+    "2"
+   ],
+   "pub": "The Astrophysical Journal Supplement Series",
+   "pubnote": [
+    "29 pages, 19 figures, submitted to ApJS"
+   ],
+   "pubdate": "2024-05-00",
+   "title": [
+    "AspGap: Augmented Stellar Parameters and Abundances for 37 Million Red Giant Branch Stars from Gaia XP Low-resolution Spectra"
+   ],
+   "volume": "272",
+   "year": "2024"
+  },
+  {
+   "bibcode": "2022arXiv220409057N",
+   "author": [
+    "Naidu, Rohan P.",
+    "Conroy, Charlie",
+    "Bonaca, Ana",
+    "Zaritsky, Dennis",
+    "Ting, Yuan-Sen",
+    "Caldwell, Nelson",
+    "Cargile, Phillip A.",
+    "Speagle, Joshua S.",
+    "Chandra, Vedant",
+    "Johnson, Benjamin D.",
+    "Woody, Turner",
+    "Han, Jiwon Jesse"
+   ],
+   "doctype": "eprint",
+   "page": [
+    "arXiv:2204.09057"
+   ],
+   "pub": "arXiv e-prints",
+   "pubnote": [
+    "Submitted to ApJ. Tables 1 &amp; 2 summarize properties of disrupted &amp; surviving dwarfs. Fig. 2 plots the mass-metallicity and mass-$\\alpha$ relations, Fig. 3 shows the correlation between $\\Delta$[Fe/H] and [$\\alpha$/Fe], and Fig. 4 might delight dwarf-quenching enthusiasts. Comments warmly welcomed and greatly appreciated!"
+   ],
+   "pubdate": "2022-04-00",
+   "title": [
+    "Live Fast, Die $\\alpha$-Enhanced: The Mass-Metallicity-$\\alpha$ Relation of the Milky Way's Disrupted Dwarf Galaxies"
+   ],
+   "year": "2022"
+  },
+  {
    "bibcode": "2023ApJ...951...26C",
    "author": [
     "Chandra, Vedant",
@@ -1534,7 +1591,7 @@
     "Han, Jiwon Jesse",
     "Johnson, Benjamin D.",
     "Ting, Yuan-Sen",
-    "Woody, Turner",
+    "Woody, Rebecca",
     "Zaritsky, Dennis"
    ],
    "doctype": "article",
@@ -1578,128 +1635,6 @@
    "year": "2025"
   },
   {
-   "bibcode": "2022arXiv220409057N",
-   "author": [
-    "Naidu, Rohan P.",
-    "Conroy, Charlie",
-    "Bonaca, Ana",
-    "Zaritsky, Dennis",
-    "Ting, Yuan-Sen",
-    "Caldwell, Nelson",
-    "Cargile, Phillip A.",
-    "Speagle, Joshua S.",
-    "Chandra, Vedant",
-    "Johnson, Benjamin D.",
-    "Woody, Turner",
-    "Han, Jiwon Jesse"
-   ],
-   "doctype": "eprint",
-   "page": [
-    "arXiv:2204.09057"
-   ],
-   "pub": "arXiv e-prints",
-   "pubnote": [
-    "Submitted to ApJ. Tables 1 &amp; 2 summarize properties of disrupted &amp; surviving dwarfs. Fig. 2 plots the mass-metallicity and mass-$\\alpha$ relations, Fig. 3 shows the correlation between $\\Delta$[Fe/H] and [$\\alpha$/Fe], and Fig. 4 might delight dwarf-quenching enthusiasts. Comments warmly welcomed and greatly appreciated!"
-   ],
-   "pubdate": "2022-04-00",
-   "title": [
-    "Live Fast, Die $\\alpha$-Enhanced: The Mass-Metallicity-$\\alpha$ Relation of the Milky Way's Disrupted Dwarf Galaxies"
-   ],
-   "year": "2022"
-  },
-  {
-   "bibcode": "2024ApJS..272....2L",
-   "author": [
-    "Li, Jiadong",
-    "Wong, Kaze W. K.",
-    "Hogg, David W.",
-    "Rix, Hans-Walter",
-    "Chandra, Vedant"
-   ],
-   "doctype": "article",
-   "page": [
-    "2"
-   ],
-   "pub": "The Astrophysical Journal Supplement Series",
-   "pubnote": [
-    "29 pages, 19 figures, submitted to ApJS"
-   ],
-   "pubdate": "2024-05-00",
-   "title": [
-    "AspGap: Augmented Stellar Parameters and Abundances for 37 Million Red Giant Branch Stars from Gaia XP Low-resolution Spectra"
-   ],
-   "volume": "272",
-   "year": "2024"
-  },
-  {
-   "bibcode": "2025arXiv250411687A",
-   "author": [
-    "Aganze, Christian",
-    "Chandra, Vedant",
-    "Wechsler, Risa H.",
-    "Li, Ting S.",
-    "Koposov, Sergey E.",
-    "Beraldo e Silva, Leandro",
-    "Carrillo, Andreia",
-    "Riley, Alexander H.",
-    "Valluri, Monica",
-    "Gnedin, Oleg Y.",
-    "Heiger, Mairead",
-    "Rockosi, Constance",
-    "Carlberg, Raymond",
-    "Bystr\u00f6m, Amanda",
-    "Kizhuprakkat, Namitha",
-    "Lambert, Mika",
-    "Kim, Bokyoung",
-    "Medina, Gustavo",
-    "Allende Prieto, Carlos",
-    "Aguilar, Jessica Nicole",
-    "Ahlen, Steven",
-    "Bianchi, Davide",
-    "Brooks, David",
-    "Claybaugh, Todd T.",
-    "Cooper, Andrew P.",
-    "de la Macorra, Axel",
-    "Dey, Arjun",
-    "Doel, Peter",
-    "Forero-Romero, Jaime E.",
-    "Gazta\u00f1aga, Enrique",
-    "Gontcho, Satya A.",
-    "Gutierrez, Gaston",
-    "Ishak, Mustapha",
-    "Kisner, Theodore",
-    "Kremin, Anthony",
-    "Lahav, Ofer",
-    "Landriau, Martin",
-    "Le Guillou, Laurent",
-    "Meisner, Aaron",
-    "Miquel, Ramon",
-    "Palanque-Delabrouille, Nathalie",
-    "Prada, Francisco",
-    "P\u00e9rez-R\u00e0fols, Ignasi",
-    "Rossi, Graziano",
-    "Sanchez, Eusebio",
-    "Schubnell, Michael",
-    "Sprayberry, David",
-    "Tarl\u00e9, Gregory",
-    "Weaver, Benjamin A.",
-    "Zou, Hu"
-   ],
-   "doctype": "eprint",
-   "page": [
-    "arXiv:2504.11687"
-   ],
-   "pub": "arXiv e-prints",
-   "pubnote": [
-    "To be submitted to ApJ, comments welcome"
-   ],
-   "pubdate": "2025-04-00",
-   "title": [
-    "The Cocytos Stream: A Disrupted Globular Cluster from our Last Major Merger?"
-   ],
-   "year": "2025"
-  },
-  {
    "bibcode": "2022ApJ...926L..36N",
    "author": [
     "Naidu, Rohan P.",
@@ -1730,87 +1665,6 @@
    ],
    "volume": "926",
    "year": "2022"
-  },
-  {
-   "bibcode": "2024ApJ...963...17A",
-   "author": [
-    "Arseneau, Stefan",
-    "Chandra, Vedant",
-    "Hwang, Hsiang-Chih",
-    "Zakamska, Nadia L.",
-    "Pallathadka, Gautham Adamane",
-    "Crumpler, Nicole R.",
-    "Hermes, J. J.",
-    "El-Badry, Kareem",
-    "Rix, Hans-Walter",
-    "Stassun, Keivan G.",
-    "G\u00e4nsicke, Boris T.",
-    "Brownstein, Joel R.",
-    "Morrison, Sean"
-   ],
-   "doctype": "article",
-   "page": [
-    "17"
-   ],
-   "pub": "The Astrophysical Journal",
-   "pubnote": [
-    "12 pages, 9 figures"
-   ],
-   "pubdate": "2024-03-00",
-   "title": [
-    "Measuring the Mass\u2500Radius Relation of White Dwarfs Using Wide Binaries"
-   ],
-   "volume": "963",
-   "year": "2024"
-  },
-  {
-   "bibcode": "2025ApJ...979..136F",
-   "author": [
-    "Frankel, Neige",
-    "Andrae, Rene",
-    "Rix, Hans-Walter",
-    "Povick, Joshua",
-    "Chandra, Vedant"
-   ],
-   "doctype": "article",
-   "page": [
-    "136"
-   ],
-   "pub": "The Astrophysical Journal",
-   "pubnote": [
-    "Submitted to ApJ; constructive comments would be appreciated"
-   ],
-   "pubdate": "2025-02-00",
-   "title": [
-    "What Does the LMC Look Like? It Depends on [M/H] and Age"
-   ],
-   "volume": "979",
-   "year": "2025"
-  },
-  {
-   "bibcode": "2025OJAp....8E..16Z",
-   "author": [
-    "Zaritsky, Dennis",
-    "Chandra, Vedant",
-    "Conroy, Charlie",
-    "Bonaca, Ana",
-    "Cargile, Phillip A.",
-    "Naidu, Rohan P."
-   ],
-   "doctype": "article",
-   "page": [
-    "16"
-   ],
-   "pub": "The Open Journal of Astrophysics",
-   "pubnote": [
-    "Accepted for publication by the Open Journal of Astrophysics, 10 pages, 10 figures; doi:10.33232/001c.129885"
-   ],
-   "pubdate": "2025-02-00",
-   "title": [
-    "Untangling Magellanic Streams"
-   ],
-   "volume": "8",
-   "year": "2025"
   },
   {
    "bibcode": "2026ApJ..1002..207A",
@@ -1852,6 +1706,180 @@
    "year": "2026"
   },
   {
+   "bibcode": "2025arXiv250411687A",
+   "author": [
+    "Aganze, Christian",
+    "Chandra, Vedant",
+    "Wechsler, Risa H.",
+    "Li, Ting S.",
+    "Koposov, Sergey E.",
+    "Beraldo Silva, Leandro",
+    "Carrillo, Andreia",
+    "Riley, Alexander H.",
+    "Valluri, Monica",
+    "Gnedin, Oleg Y.",
+    "Heiger, Mairead",
+    "Rockosi, Constance",
+    "Carlberg, Raymond",
+    "Bystr\u00f6m, Amanda",
+    "Kizhuprakkat, Namitha",
+    "Lambert, Mika",
+    "Kim, Bokyoung",
+    "Medina, Gustavo E.",
+    "Allende Prieto, Carlos",
+    "Aguilar, Jessica Nicole",
+    "Ahlen, Steven",
+    "Bianchi, Davide",
+    "Brooks, David",
+    "Claybaugh, Todd T.",
+    "Cooper, Andrew P.",
+    "de la Macorra, Axel",
+    "Dey, Arjun",
+    "Doel, Peter",
+    "Forero-Romero, Jaime E.",
+    "Gazta\u00f1aga, Enrique",
+    "Gontcho, Satya A.",
+    "Gutierrez, Gaston",
+    "Ishak, Mustapha",
+    "Kisner, Theodore",
+    "Kremin, Anthony",
+    "Lahav, Ofer",
+    "Landriau, Martin",
+    "Le Guillou, Laurent",
+    "Meisner, Aaron",
+    "Miquel, Ramon",
+    "Palanque-Delabrouille, Nathalie",
+    "Prada, Francisco",
+    "P\u00e9rez-R\u00e0fols, Ignasi",
+    "Rossi, Graziano",
+    "Sanchez, Eusebio",
+    "Schubnell, Michael",
+    "Sprayberry, David",
+    "Tarl\u00e9, Gregory",
+    "Weaver, Benjamin A.",
+    "Zou, Hu"
+   ],
+   "doctype": "eprint",
+   "page": [
+    "arXiv:2504.11687"
+   ],
+   "pub": "arXiv e-prints",
+   "pubnote": [
+    "Submitted to ApJ, comments welcome Zenodo link: https://zenodo.org/records/22762704; http://arxiv.org/abs/2504.11687"
+   ],
+   "pubdate": "2025-04-00",
+   "title": [
+    "The Cocytos Stream: A Disrupted Globular Cluster from our Last Major Merger?"
+   ],
+   "year": "2025"
+  },
+  {
+   "bibcode": "2025ApJ...979..136F",
+   "author": [
+    "Frankel, Neige",
+    "Andrae, Rene",
+    "Rix, Hans-Walter",
+    "Povick, Joshua",
+    "Chandra, Vedant"
+   ],
+   "doctype": "article",
+   "page": [
+    "136"
+   ],
+   "pub": "The Astrophysical Journal",
+   "pubnote": [
+    "Submitted to ApJ; constructive comments would be appreciated"
+   ],
+   "pubdate": "2025-02-00",
+   "title": [
+    "What Does the LMC Look Like? It Depends on [M/H] and Age"
+   ],
+   "volume": "979",
+   "year": "2025"
+  },
+  {
+   "bibcode": "2024ApJ...963...17A",
+   "author": [
+    "Arseneau, Stefan",
+    "Chandra, Vedant",
+    "Hwang, Hsiang-Chih",
+    "Zakamska, Nadia L.",
+    "Pallathadka, Gautham Adamane",
+    "Crumpler, Nicole R.",
+    "Hermes, J. J.",
+    "El-Badry, Kareem",
+    "Rix, Hans-Walter",
+    "Stassun, Keivan G.",
+    "G\u00e4nsicke, Boris T.",
+    "Brownstein, Joel R.",
+    "Morrison, Sean"
+   ],
+   "doctype": "article",
+   "page": [
+    "17"
+   ],
+   "pub": "The Astrophysical Journal",
+   "pubnote": [
+    "12 pages, 9 figures"
+   ],
+   "pubdate": "2024-03-00",
+   "title": [
+    "Measuring the Mass\u2500Radius Relation of White Dwarfs Using Wide Binaries"
+   ],
+   "volume": "963",
+   "year": "2024"
+  },
+  {
+   "bibcode": "2025OJAp....8E..16Z",
+   "author": [
+    "Zaritsky, Dennis",
+    "Chandra, Vedant",
+    "Conroy, Charlie",
+    "Bonaca, Ana",
+    "Cargile, Phillip A.",
+    "Naidu, Rohan P."
+   ],
+   "doctype": "article",
+   "page": [
+    "16"
+   ],
+   "pub": "The Open Journal of Astrophysics",
+   "pubnote": [
+    "Accepted for publication by the Open Journal of Astrophysics, 10 pages, 10 figures; doi:10.33232/001c.129885"
+   ],
+   "pubdate": "2025-02-00",
+   "title": [
+    "Untangling Magellanic Streams"
+   ],
+   "volume": "8",
+   "year": "2025"
+  },
+  {
+   "bibcode": "2024AJ....167..173S",
+   "author": [
+    "Sizemore, Logan",
+    "Llanes, Diego",
+    "Kounkel, Marina",
+    "Hutchinson, Brian",
+    "Stassun, Keivan G.",
+    "Chandra, Vedant"
+   ],
+   "doctype": "article",
+   "page": [
+    "173"
+   ],
+   "pub": "The Astronomical Journal",
+   "pubnote": [
+    "21 pages, 16 figures. Accepted to AJ Catalogs available on https://zenodo.org/records/10456416"
+   ],
+   "pubdate": "2024-04-00",
+   "title": [
+    "A Self-consistent Data-driven Model for Determining Stellar Parameters from Optical and Near-infrared Spectra"
+   ],
+   "volume": "167",
+   "year": "2024"
+  },
+  {
    "bibcode": "2025PASP..137i4202N",
    "author": [
     "Nagarajan, Pranav",
@@ -1881,6 +1909,30 @@
    ],
    "volume": "137",
    "year": "2025"
+  },
+  {
+   "bibcode": "2021MNRAS.503.3975P",
+   "author": [
+    "Petrosky, Evan",
+    "Hwang, Hsiang-Chih",
+    "Zakamska, Nadia L.",
+    "Chandra, Vedant",
+    "Hill, Matthew J."
+   ],
+   "doctype": "article",
+   "page": [
+    "3975"
+   ],
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "pubnote": [
+    "23 pages, 15 figures. Accepted for Publication in MNRAS. The full catalog of WISE variables, periodic variables, and binaries is available at https://zakamska.johnshopkins.edu/data.htm; doi:10.1093/mnras/stab592"
+   ],
+   "pubdate": "2021-05-00",
+   "title": [
+    "Variability, periodicity, and contact binaries in WISE"
+   ],
+   "volume": "503",
+   "year": "2021"
   },
   {
    "bibcode": "2026ApJ...999..251A",
@@ -1948,53 +2000,83 @@
    "year": "2024"
   },
   {
-   "bibcode": "2024AJ....167..173S",
+   "bibcode": "2022ApJ...934...14H",
    "author": [
-    "Sizemore, Logan",
-    "Llanes, Diego",
-    "Kounkel, Marina",
-    "Hutchinson, Brian",
-    "Stassun, Keivan G.",
-    "Chandra, Vedant"
+    "Han, Jiwon Jesse",
+    "Naidu, Rohan P.",
+    "Conroy, Charlie",
+    "Bonaca, Ana",
+    "Zaritsky, Dennis",
+    "Caldwell, Nelson",
+    "Cargile, Phillip",
+    "Johnson, Benjamin D.",
+    "Chandra, Vedant",
+    "Speagle, Joshua S.",
+    "Ting, Yuan-Sen",
+    "Woody, Rebecca"
    ],
    "doctype": "article",
    "page": [
-    "173"
+    "14"
    ],
-   "pub": "The Astronomical Journal",
+   "pub": "The Astrophysical Journal",
    "pubnote": [
-    "21 pages, 16 figures. Accepted to AJ Catalogs available on https://zenodo.org/records/10456416"
+    "10 pages, 7 figures, submitted to ApJ; doi:10.3847/1538-4357/ac795f"
    ],
-   "pubdate": "2024-04-00",
+   "pubdate": "2022-07-00",
    "title": [
-    "A Self-consistent Data-driven Model for Determining Stellar Parameters from Optical and Near-infrared Spectra"
+    "A Tilt in the Dark Matter Halo of the Galaxy"
    ],
-   "volume": "167",
+   "volume": "934",
+   "year": "2022"
+  },
+  {
+   "bibcode": "2024arXiv240612969H",
+   "author": [
+    "Han, Jiwon Jesse",
+    "Conroy, Charlie",
+    "Zaritsky, Dennis",
+    "Bonaca, Ana",
+    "Caldwell, Nelson",
+    "Chandra, Vedant",
+    "Ting, Yuan-Sen"
+   ],
+   "doctype": "eprint",
+   "page": [
+    "arXiv:2406.12969"
+   ],
+   "pub": "arXiv e-prints",
+   "pubnote": [
+    "submitted to ApJ; comments welcome"
+   ],
+   "pubdate": "2024-06-00",
+   "title": [
+    "Our Halo of Ice and Fire: Strong Kinematic Asymmetries in the Galactic Halo"
+   ],
    "year": "2024"
   },
   {
-   "bibcode": "2021MNRAS.503.3975P",
+   "bibcode": "2020ApJ...899..146C",
    "author": [
-    "Petrosky, Evan",
+    "Chandra, Vedant",
     "Hwang, Hsiang-Chih",
     "Zakamska, Nadia L.",
-    "Chandra, Vedant",
-    "Hill, Matthew J."
+    "Cheng, Sihao"
    ],
    "doctype": "article",
    "page": [
-    "3975"
+    "146"
    ],
-   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "pub": "The Astrophysical Journal",
    "pubnote": [
-    "23 pages, 15 figures. Accepted for Publication in MNRAS. The full catalog of WISE variables, periodic variables, and binaries is available at https://zakamska.johnshopkins.edu/data.htm; doi:10.1093/mnras/stab592"
+    "11 pages, 5 figures. Accepted to ApJ; corrected typos, added a reference and DOI; doi:10.3847/1538-4357/aba8a2"
    ],
-   "pubdate": "2021-05-00",
+   "pubdate": "2020-08-00",
    "title": [
-    "Variability, periodicity, and contact binaries in WISE"
+    "A Gravitational Redshift Measurement of the White Dwarf Mass-Radius Relation"
    ],
-   "volume": "503",
-   "year": "2021"
+   "volume": "899",
+   "year": "2020"
   },
   {
    "bibcode": "2024ApJ...968...42A",
@@ -2061,83 +2143,30 @@
    "year": "2025"
   },
   {
-   "bibcode": "2022ApJ...934...14H",
+   "bibcode": "2026MNRAS.550g1254B",
    "author": [
-    "Han, Jiwon Jesse",
-    "Naidu, Rohan P.",
-    "Conroy, Charlie",
-    "Bonaca, Ana",
-    "Zaritsky, Dennis",
-    "Caldwell, Nelson",
-    "Cargile, Phillip",
-    "Johnson, Benjamin D.",
+    "Brooks, Richard A. N.",
+    "Sanders, Jason L.",
     "Chandra, Vedant",
-    "Speagle, Joshua S.",
-    "Ting, Yuan-Sen",
-    "Woody, Turner"
-   ],
-   "doctype": "article",
-   "page": [
-    "14"
-   ],
-   "pub": "The Astrophysical Journal",
-   "pubnote": [
-    "10 pages, 7 figures, submitted to ApJ; doi:10.3847/1538-4357/ac795f"
-   ],
-   "pubdate": "2022-07-00",
-   "title": [
-    "A Tilt in the Dark Matter Halo of the Galaxy"
-   ],
-   "volume": "934",
-   "year": "2022"
-  },
-  {
-   "bibcode": "2020ApJ...899..146C",
-   "author": [
-    "Chandra, Vedant",
-    "Hwang, Hsiang-Chih",
-    "Zakamska, Nadia L.",
-    "Cheng, Sihao"
-   ],
-   "doctype": "article",
-   "page": [
-    "146"
-   ],
-   "pub": "The Astrophysical Journal",
-   "pubnote": [
-    "11 pages, 5 figures. Accepted to ApJ; corrected typos, added a reference and DOI; doi:10.3847/1538-4357/aba8a2"
-   ],
-   "pubdate": "2020-08-00",
-   "title": [
-    "A Gravitational Redshift Measurement of the White Dwarf Mass-Radius Relation"
-   ],
-   "volume": "899",
-   "year": "2020"
-  },
-  {
-   "bibcode": "2024arXiv240612969H",
-   "author": [
-    "Han, Jiwon Jesse",
-    "Conroy, Charlie",
-    "Zaritsky, Dennis",
-    "Bonaca, Ana",
-    "Caldwell, Nelson",
-    "Chandra, Vedant",
+    "Garavito-Camargo, Nicol\u00e1s",
+    "Dillamore, Adam M.",
+    "Price-Whelan, Adrian M.",
     "Ting, Yuan-Sen"
    ],
-   "doctype": "eprint",
+   "doctype": "article",
    "page": [
-    "arXiv:2406.12969"
+    "stag1254"
    ],
-   "pub": "arXiv e-prints",
+   "pub": "Monthly Notices of the Royal Astronomical Society",
    "pubnote": [
-    "submitted to ApJ; comments welcome"
+    "MNRAS accepted. 20 pages, 11 figures, 2 tables; http://arxiv.org/abs/2510.04735; Mon Not R Astron Soc (2026); doi:10.1093/mnras/stag1254"
    ],
-   "pubdate": "2024-06-00",
+   "pubdate": "2026-08-00",
    "title": [
-    "Our Halo of Ice and Fire: Strong Kinematic Asymmetries in the Galactic Halo"
+    "The Milky Way\u2500Large Magellanic Cloud interaction with simulation-based inference"
    ],
-   "year": "2024"
+   "volume": "550",
+   "year": "2026"
   },
   {
    "bibcode": "2025MNRAS.537.3234T",
@@ -2209,32 +2238,6 @@
    "year": "2026"
   },
   {
-   "bibcode": "2026MNRAS.550g1254B",
-   "author": [
-    "Brooks, Richard A. N.",
-    "Sanders, Jason L.",
-    "Chandra, Vedant",
-    "Garavito-Camargo, Nicol\u00e1s",
-    "Dillamore, Adam M.",
-    "Price-Whelan, Adrian M.",
-    "Ting, Yuan-Sen"
-   ],
-   "doctype": "article",
-   "page": [
-    "stag1254"
-   ],
-   "pub": "Monthly Notices of the Royal Astronomical Society",
-   "pubnote": [
-    "MNRAS accepted. 20 pages, 11 figures, 2 tables; http://arxiv.org/abs/2510.04735; Mon Not R Astron Soc (2026); doi:10.1093/mnras/stag1254"
-   ],
-   "pubdate": "2026-08-00",
-   "title": [
-    "The Milky Way\u2500Large Magellanic Cloud interaction with simulation-based inference"
-   ],
-   "volume": "550",
-   "year": "2026"
-  },
-  {
    "bibcode": "2022MNRAS.512.6122C",
    "author": [
     "Chandra, Vedant",
@@ -2290,35 +2293,6 @@
    ],
    "volume": "497",
    "year": "2020"
-  },
-  {
-   "bibcode": "2026ApJ..1000L..44L",
-   "author": [
-    "Lucey, Madeline",
-    "Chandra, Vedant",
-    "Ji, Alexander P.",
-    "Casey, Andrew R.",
-    "Nidever, David",
-    "Morrison, Sean",
-    "Sanderson, Robyn E.",
-    "Oden, Slater",
-    "Fern\u00e1ndez-Trincado, Jos\u00e9 G.",
-    "Limberg, Guilherme"
-   ],
-   "doctype": "article",
-   "page": [
-    "L44"
-   ],
-   "pub": "The Astrophysical Journal Letters",
-   "pubnote": [
-    "15 pages, 10 figures, 1 table, accepted to ApJL, comments welcome!"
-   ],
-   "pubdate": "2026-04-00",
-   "title": [
-    "Discovery of the First Five Carbon-enhanced Metal-poor Stars in the LMC"
-   ],
-   "volume": "1000",
-   "year": "2026"
   },
   {
    "bibcode": "2026arXiv260726149S",
@@ -2672,6 +2646,35 @@
    "year": "2021"
   },
   {
+   "bibcode": "2026ApJ..1000L..44L",
+   "author": [
+    "Lucey, Madeline",
+    "Chandra, Vedant",
+    "Ji, Alexander P.",
+    "Casey, Andrew R.",
+    "Nidever, David",
+    "Morrison, Sean",
+    "Sanderson, Robyn E.",
+    "Oden, Slater",
+    "Fern\u00e1ndez-Trincado, Jos\u00e9 G.",
+    "Limberg, Guilherme"
+   ],
+   "doctype": "article",
+   "page": [
+    "L44"
+   ],
+   "pub": "The Astrophysical Journal Letters",
+   "pubnote": [
+    "15 pages, 10 figures, 1 table, accepted to ApJL, comments welcome!"
+   ],
+   "pubdate": "2026-04-00",
+   "title": [
+    "Discovery of the First Five Carbon-enhanced Metal-poor Stars in the LMC"
+   ],
+   "volume": "1000",
+   "year": "2026"
+  },
+  {
    "bibcode": "2026OJAp....964326E",
    "author": [
     "El-Badry, Kareem",
@@ -2708,65 +2711,6 @@
    ],
    "volume": "9",
    "year": "2026"
-  },
-  {
-   "bibcode": "2025ApJ...991..190A",
-   "author": [
-    "Arseneau, Stefan M.",
-    "Hermes, J. J.",
-    "Zakamska, Nadia L.",
-    "El-Badry, Kareem",
-    "Crumpler, Nicole R.",
-    "Chandra, Vedant",
-    "Adamane Pallathadka, Gautham",
-    "Badenes, Carles",
-    "G\u00e4nsicke, Boris T.",
-    "Fusillo, Nicola Gentile"
-   ],
-   "doctype": "article",
-   "page": [
-    "190"
-   ],
-   "pub": "The Astrophysical Journal",
-   "pubnote": [
-    "17 pages, 11 figures, 2 tables, accepted for publication in ApJ; doi:10.3847/1538-4357/adf8dd"
-   ],
-   "pubdate": "2025-10-00",
-   "title": [
-    "Resolution-corrected White Dwarf Gravitational Redshifts Validate Fifth-generation Sloan Digital Sky Survey Wavelength Calibration and Enable Accurate Mass\u2500Radius Tests"
-   ],
-   "volume": "991",
-   "year": "2025"
-  },
-  {
-   "bibcode": "2022MNRAS.513..754H",
-   "author": [
-    "Hwang, Hsiang-Chih",
-    "Ting, Yuan-Sen",
-    "Conroy, Charlie",
-    "Zakamska, Nadia L.",
-    "El-Badry, Kareem",
-    "Cargile, Phillip",
-    "Zaritsky, Dennis",
-    "Chandra, Vedant",
-    "Han, Jiwon Jesse",
-    "Speagle, Joshua S.",
-    "Bonaca, Ana"
-   ],
-   "doctype": "article",
-   "page": [
-    "754"
-   ],
-   "pub": "Monthly Notices of the Royal Astronomical Society",
-   "pubnote": [
-    "Accepted for publication in MNRAS. Fig. 7 is the key plot. Online data are available at: https://drive.google.com/file/d/1TXKEwKBHcP4j9tMeJpa2hWDFHsEc1Qd3/view?usp=sharing. Comments are welcome!; doi:10.1093/mnras/stac650"
-   ],
-   "pubdate": "2022-06-00",
-   "title": [
-    "Wide binaries from the H3 survey: the thick disc and halo have similar wide binary fractions"
-   ],
-   "volume": "513",
-   "year": "2022"
   },
   {
    "bibcode": "2026AJ....171..235T",
@@ -2806,7 +2750,7 @@
     "Johnson, Benjamin D.",
     "Speagle, Joshua S.",
     "Ting, Yuan-Sen",
-    "Woody, Turner"
+    "Woody, Rebecca"
    ],
    "doctype": "article",
    "page": [
@@ -2848,71 +2792,63 @@
    "year": "2026"
   },
   {
-   "bibcode": "2026MNRAS.549ag926B",
+   "bibcode": "2022MNRAS.513..754H",
    "author": [
-    "Brooks, Richard A. N.",
-    "Sanders, Jason L.",
-    "Dillamore, Adam M.",
-    "Garavito-Camargo, Nicol\u00e1s",
+    "Hwang, Hsiang-Chih",
+    "Ting, Yuan-Sen",
+    "Conroy, Charlie",
+    "Zakamska, Nadia L.",
+    "El-Badry, Kareem",
+    "Cargile, Phillip",
+    "Zaritsky, Dennis",
     "Chandra, Vedant",
-    "Price-Whelan, Adrian M.",
-    "Cargile, Phillip"
+    "Han, Jiwon Jesse",
+    "Speagle, Joshua S.",
+    "Bonaca, Ana"
    ],
    "doctype": "article",
    "page": [
-    "stag926"
+    "754"
    ],
    "pub": "Monthly Notices of the Royal Astronomical Society",
    "pubnote": [
-    "MNRAS accepted. 17 pages, 12 figures, 2 tables. arXiv admin note: text overlap with arXiv:2510.04735; http://arxiv.org/abs/2603.08788; Mon Not R Astron Soc (2026); doi:10.1093/mnras/stag926"
+    "Accepted for publication in MNRAS. Fig. 7 is the key plot. Online data are available at: https://drive.google.com/file/d/1TXKEwKBHcP4j9tMeJpa2hWDFHsEc1Qd3/view?usp=sharing. Comments are welcome!; doi:10.1093/mnras/stac650"
    ],
-   "pubdate": "2026-07-00",
+   "pubdate": "2022-06-00",
    "title": [
-    "Quantifying the Milky Way, LMC and their interaction using all-sky kinematics of outer halo stars"
+    "Wide binaries from the H3 survey: the thick disc and halo have similar wide binary fractions"
    ],
-   "volume": "549",
-   "year": "2026"
+   "volume": "513",
+   "year": "2022"
   },
   {
-   "bibcode": "2026arXiv260515069D",
+   "bibcode": "2025ApJ...991..190A",
    "author": [
-    "Ding, Keyi",
-    "Gennaro, Mario",
-    "Avila, Roberto J.",
-    "Ricotti, Massimo",
-    "Beaton, Rachael L.",
-    "Boyer, Martha L.",
-    "Brown, Thomas M.",
-    "Calamida, Annalisa",
-    "Cassisi, Santi",
-    "Chandra, Vedant",
-    "Cohen, Roger E.",
-    "Correnti, Matteo",
-    "Crnojevi\u0107, Denija",
+    "Arseneau, Stefan M.",
+    "Hermes, J. J.",
+    "Zakamska, Nadia L.",
     "El-Badry, Kareem",
-    "Geha, Marla",
-    "Guhathakurta, Puragra",
-    "Kallivayalil, Nitya",
-    "Kirby, Evan N.",
-    "McQuinn, Kristen. B. W.",
-    "Savino, Alessandro",
-    "Shariat, Cheyanne",
-    "Simon, Joshua D.",
-    "Weisz, Daniel R."
+    "Crumpler, Nicole R.",
+    "Chandra, Vedant",
+    "Adamane Pallathadka, Gautham",
+    "Badenes, Carles",
+    "G\u00e4nsicke, Boris T.",
+    "Fusillo, Nicola Gentile"
    ],
-   "doctype": "eprint",
+   "doctype": "article",
    "page": [
-    "arXiv:2605.15069"
+    "190"
    ],
-   "pub": "arXiv e-prints",
+   "pub": "The Astrophysical Journal",
    "pubnote": [
-    "28 pages, 17 figures, accepted for publication in ApJ; http://arxiv.org/abs/2605.15069"
+    "17 pages, 11 figures, 2 tables, accepted for publication in ApJ; doi:10.3847/1538-4357/adf8dd"
    ],
-   "pubdate": "2026-05-00",
+   "pubdate": "2025-10-00",
    "title": [
-    "Probing the IMF in the Early Universe -- Direct measurements in the Bo\u00f6tes I UFD with JWST/NIRCam"
+    "Resolution-corrected White Dwarf Gravitational Redshifts Validate Fifth-generation Sloan Digital Sky Survey Wavelength Calibration and Enable Accurate Mass\u2500Radius Tests"
    ],
-   "year": "2026"
+   "volume": "991",
+   "year": "2025"
   },
   {
    "bibcode": "2026ApJ..1003..188P",
@@ -2939,6 +2875,32 @@
     "The Binary Properties of Stellar Streams Are Set by Cluster Dynamics"
    ],
    "volume": "1003",
+   "year": "2026"
+  },
+  {
+   "bibcode": "2026MNRAS.549ag926B",
+   "author": [
+    "Brooks, Richard A. N.",
+    "Sanders, Jason L.",
+    "Dillamore, Adam M.",
+    "Garavito-Camargo, Nicol\u00e1s",
+    "Chandra, Vedant",
+    "Price-Whelan, Adrian M.",
+    "Cargile, Phillip"
+   ],
+   "doctype": "article",
+   "page": [
+    "stag926"
+   ],
+   "pub": "Monthly Notices of the Royal Astronomical Society",
+   "pubnote": [
+    "MNRAS accepted. 17 pages, 12 figures, 2 tables. arXiv admin note: text overlap with arXiv:2510.04735; http://arxiv.org/abs/2603.08788; Mon Not R Astron Soc (2026); doi:10.1093/mnras/stag926"
+   ],
+   "pubdate": "2026-07-00",
+   "title": [
+    "Quantifying the Milky Way, LMC and their interaction using all-sky kinematics of outer halo stars"
+   ],
+   "volume": "549",
    "year": "2026"
   },
   {
@@ -2988,25 +2950,6 @@
    "year": "2026"
   },
   {
-   "bibcode": "2026arXiv260618332V",
-   "author": [
-    "Via Collaboration"
-   ],
-   "doctype": "eprint",
-   "page": [
-    "arXiv:2606.18332"
-   ],
-   "pub": "arXiv e-prints",
-   "pubnote": [
-    "101 pages, 50 figures; via-project.org; http://arxiv.org/abs/2606.18332"
-   ],
-   "pubdate": "2026-06-00",
-   "title": [
-    "The Via Project: Overview of the Science, Instrument, and Survey"
-   ],
-   "year": "2026"
-  },
-  {
    "bibcode": "2026ApJ..1006..217A",
    "author": [
     "Arseneau, Stefan M.",
@@ -3030,6 +2973,25 @@
     "An Ultramassive White Dwarf with a Likely Oxygen\u2500Neon Core"
    ],
    "volume": "1006",
+   "year": "2026"
+  },
+  {
+   "bibcode": "2026arXiv260618332V",
+   "author": [
+    "Via Collaboration"
+   ],
+   "doctype": "eprint",
+   "page": [
+    "arXiv:2606.18332"
+   ],
+   "pub": "arXiv e-prints",
+   "pubnote": [
+    "101 pages, 50 figures; via-project.org; http://arxiv.org/abs/2606.18332"
+   ],
+   "pubdate": "2026-06-00",
+   "title": [
+    "The Via Project: Overview of the Science, Instrument, and Survey"
+   ],
    "year": "2026"
   },
   {
@@ -3058,11 +3020,81 @@
    ],
    "pub": "arXiv e-prints",
    "pubnote": [
-    "28 pages, 16 figures; http://arxiv.org/abs/2607.22822"
+    "32 pages, 19 figures; http://arxiv.org/abs/2607.22822"
    ],
    "pubdate": "2026-07-00",
    "title": [
     "BOSS-CLAM: Utilizing a Constrained Linear Absorption Model to Infer Stellar Parameters from BOSS Spectra"
+   ],
+   "year": "2026"
+  },
+  {
+   "bibcode": "2026ApJ..1009...94D",
+   "author": [
+    "Ding, Keyi",
+    "Gennaro, Mario",
+    "Avila, Roberto J.",
+    "Ricotti, Massimo",
+    "Beaton, Rachael L.",
+    "Boyer, Martha L.",
+    "Brown, Thomas M.",
+    "Calamida, Annalisa",
+    "Cassisi, Santi",
+    "Chandra, Vedant",
+    "Cohen, Roger E.",
+    "Correnti, Matteo",
+    "Crnojevi\u0107, Denija",
+    "El-Badry, Kareem",
+    "Geha, Marla",
+    "Guhathakurta, Puragra",
+    "Kallivayalil, Nitya",
+    "Kirby, Evan N.",
+    "McQuinn, Kristen. B. W.",
+    "Savino, Alessandro",
+    "Shariat, Cheyanne",
+    "Simon, Joshua D.",
+    "Weisz, Daniel R."
+   ],
+   "doctype": "article",
+   "page": [
+    "94"
+   ],
+   "pub": "The Astrophysical Journal",
+   "pubnote": [
+    "28 pages, 17 figures, accepted for publication in ApJ; http://arxiv.org/abs/2605.15069; Keyi Ding et al 2026 ApJ 1009 94; doi:10.3847/1538-4357/ae9f3e"
+   ],
+   "pubdate": "2026-10-00",
+   "title": [
+    "Probing the Initial Mass Function in the Early Universe: Direct Measurements in the Bo\u00f6tes I Ultrafaint Dwarf Galaxy with JWST/NIRCam"
+   ],
+   "volume": "1009",
+   "year": "2026"
+  },
+  {
+   "bibcode": "2026arXiv261000456C",
+   "author": [
+    "Chandra, Vedant",
+    "Conroy, Charlie",
+    "Wechsler, Risa",
+    "Bonaca, Ana",
+    "Benson, Andrew",
+    "Nibauer, Jacob",
+    "Dacunha, Tara",
+    "Mansfield, Philip",
+    "Menker, Paul",
+    "Phillips, Anya"
+   ],
+   "doctype": "eprint",
+   "page": [
+    "arXiv:2610.00456"
+   ],
+   "pub": "arXiv e-prints",
+   "pubnote": [
+    "29 pages, 18 figures;"
+   ],
+   "pubdate": "2026-09-00",
+   "title": [
+    "Which Milky Way Streams Make the Best Dark Matter Detectors?"
    ],
    "year": "2026"
   }
