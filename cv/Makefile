@@ -3,7 +3,8 @@
 PDF  := minimal-resume.pdf
 TEX  := minimal-resume.tex
 GEN  := generated/pubs-lead.tex generated/pubs-colead.tex \
-        generated/pubs-other.tex generated/pubs-counts.tex
+        generated/pubs-other.tex generated/pubs-proceedings.tex \
+        generated/pubs-counts.tex
 LOG  := minimal-resume.log
 CFG  := $(wildcard config/*.tex config/*.sty)
 

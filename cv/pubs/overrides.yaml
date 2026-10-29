@@ -49,8 +49,9 @@ exclude: []
 # Entries here are reported as stale once the paper is published.
 journal_overrides:
   2026arXiv260618332V: "White Paper"    # Via overview -- no journal venue
-  # 2026arXiv260726149S: "The Astrophysical Journal Supplement Series, submitted"
-  # 2026arXiv260722822M: "The Astrophysical Journal, submitted"
+  2026arXiv261000456C: "The Astrophysical Journal, submitted"    # best DM-detector streams
+  2026arXiv260726149S: "The Astrophysical Journal Supplement Series, submitted"    # SDSS DR20
+  2026arXiv260722822M: "The Astrophysical Journal Supplement Series, in press"    # BOSS-CLAM
 
 # Force a display year, e.g. when a paper is in press for next volume year.
 year_overrides: {}
