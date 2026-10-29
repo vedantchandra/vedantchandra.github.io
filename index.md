@@ -9,8 +9,8 @@ layout: default
 
 <h1 id="about">About Me</h1>
 
-I am a [NASA Hubble Fellow](https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2026/) at the [Massachusetts Institute of Technology](https://www.space.mit.edu/), and a member of the [MIT School of Science Fellows](https://science.mit.edu/resource/postdoc-orientation/) cohort. 
-I am also affiliated with the Department of Astronomy at [Harvard University](https://pweb.cfa.harvard.edu/), where I received my PhD in 2026. Recently, I've spent much of my time as the Deputy Project Scientist for the [Via Project](https://via-project.org/). 
+I am a [NASA Hubble Fellow](https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2026/) at the [Massachusetts Institute of Technology](https://www.space.mit.edu/), and a member of the [MIT School of Science Fellows](https://sites.mit.edu/scienceaace/deans-postdoctoral-fellowships/) cohort. 
+I am also affiliated with the Department of Astronomy at [Harvard University](https://astronomy.fas.harvard.edu/), where I received my PhD in 2026. Recently, I've spent much of my time as the Deputy Project Scientist for the [Via Project](https://via-project.org/). 
 
 <h1 id="Research">Research</h1>
 
